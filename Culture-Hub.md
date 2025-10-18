@@ -27,9 +27,11 @@
 - **[Leadership Assessment](./Leadership/Leadership-Assessment.md)** - Performance evaluation
 
 ### 🎯 Hiring & Onboarding
-- **[Hiring & Onboarding Overview](./Hiring-Onboarding/_Overview.md)** - Complete module guide
+- **[Hiring & Onboarding Overview](./Hiring-Onboarding/_Overview.md)** - 30-day integration with TIK certification
 - **[Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md)** - Cultural hiring approach
-- **[Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)** - First 90 days
+- **[Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)** - First 30 days
+- **[TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md)** - Cultural validation system
+- **[Certification Tracking](./Hiring-Onboarding/Certification-Tracking-Template.md)** - Progress monitoring
 - **[Integration Tools](./Hiring-Onboarding/Integration-Tools.md)** - Resources and checklists
 
 ### 🎉 Recognition & Rituals

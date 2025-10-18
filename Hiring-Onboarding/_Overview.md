@@ -6,7 +6,7 @@
 
 ## Module Purpose
 
-This Hiring & Onboarding module ensures we bring in people who will thrive in our TIK culture and successfully integrate them into our team. It covers the complete journey from identifying great candidates to their successful integration over the first 90 days.
+This Hiring & Onboarding module ensures we bring in people who will thrive in our TIK culture and successfully integrate them into our team. It covers the complete journey from identifying great candidates to their successful integration over the first 30 days with comprehensive TIK certification.
 
 ---
 
@@ -19,11 +19,11 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 - Interview process and best practices
 - Candidate evaluation and decision making
 
-### 🚀 First 90 Days
+### 🚀 First 30 Days
 **[Onboarding Journey →](./Onboarding-Journey.md)**
 - Pre-arrival preparation for remote work
-- First day and week virtual experience
-- 30, 60, 90-day milestones with TIK certification
+- Week-by-week accelerated integration plan
+- TIK certification progression (Foundation → Practitioner → Champion)
 - Success metrics and cultural validation
 
 ### 🛠️ Resources & Tools
@@ -35,10 +35,16 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 
 ### 🎓 TIK Certification
 **[TIK Certification Program →](./TIK-Certification-Program.md)**
-- Four-level certification framework
+- Four-level certification framework (3 levels in onboarding)
 - Values and principles assessment
 - Remote-friendly validation methods
 - Progress tracking and recognition
+
+**[Certification Tracking →](./Certification-Tracking-Template.md)**
+- Individual progress monitoring template
+- Assessment scoring and validation
+- Remediation and support tracking
+- Manager and HR review documentation
 
 ---
 

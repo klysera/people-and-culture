@@ -1,6 +1,6 @@
 # Onboarding Journey
 
-**Your First 90 Days at Klysera**
+**Your First 30 Days at Klysera**
 
 ---
 
@@ -168,11 +168,11 @@
 - Communicates effectively with team
 - Shows engagement and enthusiasm
 
-### 30-Day Milestones
+## Week 4 Completion Milestones
 
 **Knowledge and Skills**
 - Completed all required training modules
-- **TIK Foundation Certification achieved**
+- **TIK Champion Certification achieved (full onboarding completion)**
 - Understands company products and services
 - Knows key processes and procedures
 - Comfortable with digital tools and remote systems
@@ -432,6 +432,6 @@
 
 ---
 
-**Your onboarding journey is designed to set you up for long-term success and cultural contribution at Klysera.**
+**Your 30-day onboarding journey is designed to rapidly integrate you into our culture and set you up for immediate impact and long-term success at Klysera.**
 
 **Welcome to the team. We're excited to grow and excel together!**

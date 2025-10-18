@@ -31,9 +31,12 @@ People & Culture/
 │   └── 📄 Leadership-Assessment.md
 │
 ├── 📁 Hiring-Onboarding/ (Cultural alignment for new joiners)
+│   ├── 📄 _Overview.md
 │   ├── 📄 Hiring-Guide.md
 │   ├── 📄 Onboarding-Journey.md
-│   └── 📄 Integration-Tools.md
+│   ├── 📄 Integration-Tools.md
+│   ├── 📄 TIK-Certification-Program.md
+│   └── 📄 Certification-Tracking-Template.md
 │
 └── 📁 Recognition-Rituals/ (Keeping culture alive)
     ├── 📄 Recognition-Framework.md
@@ -58,8 +61,9 @@ People & Culture/
 
 1. [Culture Manifesto](./Culture/Culture-Manifesto.md) - Understand who we are
 2. [TIK Identity](./Culture/TIK-Identity.md) - Learn our values
-3. [Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md) - Your first 90 days
-4. [Daily Rituals](./Recognition-Rituals/Daily-Rituals.md) - Live culture daily
+3. [Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md) - Your first 30 days
+4. [TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md) - Cultural validation
+5. [Daily Rituals](./Recognition-Rituals/Daily-Rituals.md) - Live culture daily
 
 **Managers:**
 
@@ -71,9 +75,11 @@ People & Culture/
 **HR/People & Culture:**
 
 1. [Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md) - Cultural hiring
-2. [Integration Tools](./Hiring-Onboarding/Integration-Tools.md) - Onboarding resources
-3. [Leadership Development](./Leadership/Leadership-Development.md) - Growing leaders
-4. [Special Programs](./Recognition-Rituals/Special-Programs.md) - Culture events
+2. [TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md) - Assessment system
+3. [Integration Tools](./Hiring-Onboarding/Integration-Tools.md) - Onboarding resources
+4. [Certification Tracking](./Hiring-Onboarding/Certification-Tracking-Template.md) - Progress monitoring
+5. [Leadership Development](./Leadership/Leadership-Development.md) - Growing leaders
+6. [Special Programs](./Recognition-Rituals/Special-Programs.md) - Culture events
 
 **Everyone:**
 

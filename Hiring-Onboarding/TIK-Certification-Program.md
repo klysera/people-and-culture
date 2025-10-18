@@ -14,12 +14,12 @@ The TIK Certification Program is a structured assessment system that validates n
 graph TB
     A[TIK Foundation] --> B[TIK Practitioner]
     B --> C[TIK Champion]
-    C --> D[TIK Leader]
 
-    A --> A1[Week 1-2: Values & Identity]
-    B --> B1[Week 3-6: Principles & Application]
-    C --> C1[Month 2-3: Cultural Leadership]
-    D --> D1[Month 4+: Culture Carrier]
+    A --> A1[Week 1: Values & Identity]
+    B --> B1[Week 2-3: Principles & Application]
+    C --> C1[Week 4: Cultural Leadership]
+
+    D[TIK Leader] --> D1[Post-Onboarding: Ongoing Development]
 
     style A fill:#FFD93D
     style B fill:#4ECDC4
@@ -30,7 +30,7 @@ graph TB
 ---
 
 ## TIK Foundation Certification
-**Timeline:** Weeks 1-2 | **Required for all new hires**
+**Timeline:** Week 1 | **Required for all new hires**
 
 ### Learning Objectives
 - Understand and articulate the three TIK values
@@ -73,7 +73,7 @@ graph TB
 ---
 
 ## TIK Practitioner Certification
-**Timeline:** Weeks 3-6 | **Required for role progression**
+**Timeline:** Weeks 2-3 | **Required for role progression**
 
 ### Learning Objectives
 - Apply all 7 operating principles consistently
@@ -116,7 +116,7 @@ graph TB
 ---
 
 ## TIK Champion Certification
-**Timeline:** Months 2-3 | **Required for team leadership**
+**Timeline:** Week 4 | **Required for onboarding completion**
 
 ### Learning Objectives
 - Drive cultural transformation
@@ -159,7 +159,7 @@ graph TB
 ---
 
 ## TIK Leader Certification
-**Timeline:** Month 4+ | **Required for senior leadership**
+**Timeline:** Post-Onboarding (3-6 months) | **Required for senior leadership**
 
 ### Learning Objectives
 - Shape organizational culture
@@ -321,26 +321,26 @@ Team Cultural Readiness: 82% (Strong)
 
 ## Integration with Onboarding
 
-### Week 1-2: Foundation Focus
+### Week 1: Foundation Focus
 - TIK Foundation learning and assessment
 - Cultural immersion activities
 - Buddy support for understanding
 - Manager coaching on application
 
-### Week 3-6: Practitioner Development
+### Week 2-3: Practitioner Development
 - Operating principles deep dive
 - Real project application
 - Team integration through TIK
 - Regular assessment and feedback
 
-### Month 2-3: Champion Preparation
-- Leadership opportunity creation
-- Cultural project assignment
-- Advanced coaching and mentoring
-- 360-degree feedback collection
+### Week 4: Champion Achievement
+- Leadership demonstration
+- Cultural contribution project
+- Comprehensive assessment
+- Onboarding completion certification
 
-### Month 4+: Leader Development
-- Strategic TIK application
+### Post-Onboarding: Leader Development
+- Strategic TIK application (ongoing)
 - Organizational impact projects
 - Senior leadership exposure
 - Continuous development planning
