@@ -215,7 +215,7 @@
 **Remote Performance:** [1-5 scale]
 **Comments:** [Manager feedback]
 
-### 90-Day Review
+### 30-Day Completion Review
 **Manager:** [Name]
 **Date:** [Date]
 **Certification Progress:** [Current level achieved]

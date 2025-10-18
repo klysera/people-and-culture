@@ -393,7 +393,7 @@ Team Cultural Readiness: 82% (Strong)
 
 ## Related Resources
 
-- **[Onboarding Journey →](./Onboarding-Journey.md)** - Complete 90-day journey
+- **[Onboarding Journey →](./Onboarding-Journey.md)** - Complete 30-day journey
 - **[Integration Tools →](./Integration-Tools.md)** - Assessment templates
 - **[TIK Identity →](../Culture/TIK-Identity.md)** - Values foundation
 - **[Operating Principles →](../../Operating-Principles/_Overview.md)** - Principle framework

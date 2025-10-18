@@ -353,7 +353,7 @@ Best regards,
 5. What could be improved or added?
 ```
 
-**30/60/90-Day Comprehensive Survey**
+**30-Day Comprehensive Survey**
 ```
 1. Overall onboarding experience rating (1-10 scale)
 2. Cultural integration effectiveness
@@ -417,7 +417,7 @@ Best regards,
 ## Related Resources
 
 - **[Hiring Guide →](./Hiring-Guide.md)** - How we select new team members
-- **[Onboarding Journey →](./Onboarding-Journey.md)** - Your first 90 days
+- **[Onboarding Journey →](./Onboarding-Journey.md)** - Your first 30 days
 - **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
 - **[← Back to Culture Hub](../Culture-Hub.md)**
 

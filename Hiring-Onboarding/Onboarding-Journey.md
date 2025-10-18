@@ -277,7 +277,7 @@
 
 ---
 
-## First 90 Days
+## 90-Day Post-Onboarding Review
 
 ### Week 9-12 Focus Areas
 
@@ -309,7 +309,7 @@
 - Client satisfaction and feedback
 - Growth mindset and adaptability
 
-### 90-Day Comprehensive Review
+### 90-Day Leadership Assessment
 
 **Review Process:**
 
@@ -398,7 +398,7 @@
 **New Hire Experience Surveys**
 - Daily pulse during first week
 - Weekly feedback for first month
-- 30, 60, 90-day comprehensive surveys
+- 30-day comprehensive surveys
 - Exit feedback if leaving during onboarding
 
 **Process Improvement**

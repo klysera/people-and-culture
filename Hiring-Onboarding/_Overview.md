@@ -70,7 +70,7 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 
 ### For New Team Members
 1. **Review pre-arrival materials** - Prepare for your remote journey
-2. **Follow [Onboarding Journey](./Onboarding-Journey.md)** - Navigate your first 90 days
+2. **Follow [Onboarding Journey](./Onboarding-Journey.md)** - Navigate your first 30 days
 3. **Complete [TIK Certification](./TIK-Certification-Program.md)** - Validate cultural integration
 4. **Use [Integration Tools](./Integration-Tools.md)** - Access resources and support
 5. **Engage actively** - Participate fully in virtual cultural integration
@@ -95,18 +95,17 @@ graph LR
 
 **Focus:** Cultural alignment first, then competency validation
 
-### Phase 2: Onboarding (90 days)
+### Phase 2: Onboarding (30 days)
 ```mermaid
 graph LR
-    A[Pre-Arrival] --> B[First Day]
-    B --> C[First Week]
-    C --> D[30 Days]
-    D --> E[60 Days]
-    E --> F[90 Days]
+    A[Pre-Arrival] --> B[Week 1]
+    B --> C[Week 2]
+    C --> D[Week 3]
+    D --> E[Week 4]
 
     style A fill:#FFD93D
     style B fill:#4ECDC4
-    style F fill:#96CEB4
+    style E fill:#96CEB4
 ```
 
 **Focus:** Cultural integration, role competency, and team relationship building
@@ -122,7 +121,7 @@ graph LR
 - **Mutual fit** benefits everyone
 
 ### Comprehensive Remote Onboarding
-- **90-day integration** journey with clear milestones and TIK certification
+- **30-day intensive integration** journey with clear milestones and TIK certification
 - **Virtual cultural immersion** from day one
 - **Digital support systems** including buddy and manager
 - **Continuous feedback** and assessment-based adjustment
@@ -145,7 +144,7 @@ graph LR
 
 ### Onboarding Success
 - **Cultural integration** - TIK certification achievement and values demonstration
-- **Performance milestones** - Achievement of 30/60/90-day goals with certification
+- **Performance milestones** - Achievement of weekly goals with certification progression
 - **Team relationships** - Positive virtual integration and remote collaboration
 - **New hire satisfaction** - Remote experience quality and digital support effectiveness
 

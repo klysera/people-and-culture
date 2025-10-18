@@ -361,7 +361,7 @@ We hire people who want to grow with us and help others grow too.
 
 ## Related Resources
 
-- **[Onboarding Journey →](./Onboarding-Journey.md)** - First 90 days integration
+- **[Onboarding Journey →](./Onboarding-Journey.md)** - First 30 days integration
 - **[Integration Tools →](./Integration-Tools.md)** - Resources and checklists
 - **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values
 - **[← Back to Culture Hub](../Culture-Hub.md)**
