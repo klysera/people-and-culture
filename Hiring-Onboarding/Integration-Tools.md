@@ -33,7 +33,7 @@
 
 **Morning Setup (Manager)**
 - [ ] Personal welcome and greeting
-- [ ] Office/workspace tour completed
+- [ ] Digital workspace tour and tool setup completed
 - [ ] Technology setup verified
 - [ ] Administrative paperwork finished
 - [ ] Welcome meeting held
@@ -201,13 +201,21 @@
 - [Decision Framework](../Playbook/Decision-Framework.md)
 - [Daily Operations](../Playbook/Daily-Operations.md)
 
-### Technology Setup Guide
+### Remote Technology Setup Guide
+
+**Essential Remote Work Tools**
+- Video conferencing platform (Zoom/Teams) with camera/audio test
+- Communication platforms (Slack/Teams) with notification settings
+- Project management and collaboration tools with mobile access
+- VPN setup for secure remote access
+- Digital workspace organization and file access
 
 **Account Creation and Access**
 - Email and communication platforms
 - Project management and collaboration tools
 - Customer relationship management systems
 - Learning and development platforms
+- TIK Certification assessment platform
 
 **Security and Compliance**
 - Password management setup
@@ -267,11 +275,12 @@ Best regards,
 
 ### TIK Culture Training Modules
 
-**Module 1: Culture Foundation (30 minutes)**
+**Module 1: TIK Foundation Certification Prep (45 minutes)**
 - Klysera story and mission
-- TIK values deep dive
+- TIK values deep dive with assessment preparation
 - Culture examples and stories
 - Values demonstration practice
+- Foundation certification assessment
 
 **Module 2: Operating Principles (45 minutes)**
 - 7 operating principles overview

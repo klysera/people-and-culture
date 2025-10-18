@@ -28,10 +28,10 @@
 ### Morning Setup (9:00 AM - 12:00 PM)
 
 **Personal Welcome**
-- Warm greeting from manager and team
-- Office/workspace tour and orientation
-- Introduction to immediate colleagues
-- Overview of first day plan
+- Warm virtual greeting from manager and team
+- Digital workspace orientation and tool setup
+- Video introductions to immediate colleagues
+- Overview of first day plan and schedule
 
 **Administrative Setup**
 - HR paperwork completion
@@ -172,9 +172,10 @@
 
 **Knowledge and Skills**
 - Completed all required training modules
+- **TIK Foundation Certification achieved**
 - Understands company products and services
 - Knows key processes and procedures
-- Comfortable with tools and systems
+- Comfortable with digital tools and remote systems
 
 **Relationships and Culture**
 - Built positive relationships with team members
@@ -242,10 +243,11 @@
 ### 60-Day Milestones
 
 **Performance Excellence**
+- **TIK Practitioner Certification achieved**
 - Consistently meets performance standards
-- Delivers quality work independently
+- Delivers quality work independently in remote environment
 - Manages time and priorities effectively
-- Communicates proactively and clearly
+- Communicates proactively and clearly across digital channels
 
 **Cultural Leadership**
 - Models TIK values in daily work
@@ -295,9 +297,11 @@
 
 **Quantitative Measures**
 - Performance against role objectives
+- **TIK Certification progress (Foundation + Practitioner required)**
 - Completion of onboarding milestones
 - Feedback scores from team and stakeholders
 - Learning and development progress
+- Remote collaboration effectiveness
 
 **Qualitative Measures**
 - Cultural integration and values demonstration

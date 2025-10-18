@@ -21,17 +21,24 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 
 ### 🚀 First 90 Days
 **[Onboarding Journey →](./Onboarding-Journey.md)**
-- Pre-arrival preparation
-- First day and week experience
-- 30, 60, 90-day milestones
-- Success metrics and assessment
+- Pre-arrival preparation for remote work
+- First day and week virtual experience
+- 30, 60, 90-day milestones with TIK certification
+- Success metrics and cultural validation
 
 ### 🛠️ Resources & Tools
 **[Integration Tools →](./Integration-Tools.md)**
-- Onboarding checklists and templates
-- Assessment and feedback tools
-- Training materials and resources
-- Support systems and contacts
+- Remote onboarding checklists and templates
+- Assessment and feedback tools for distributed teams
+- Training materials and digital resources
+- Support systems and virtual contacts
+
+### 🎓 TIK Certification
+**[TIK Certification Program →](./TIK-Certification-Program.md)**
+- Four-level certification framework
+- Values and principles assessment
+- Remote-friendly validation methods
+- Progress tracking and recognition
 
 ---
 
@@ -56,10 +63,11 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 4. **Provide feedback** - Help improve processes
 
 ### For New Team Members
-1. **Review pre-arrival materials** - Prepare for your journey
+1. **Review pre-arrival materials** - Prepare for your remote journey
 2. **Follow [Onboarding Journey](./Onboarding-Journey.md)** - Navigate your first 90 days
-3. **Use [Integration Tools](./Integration-Tools.md)** - Access resources and support
-4. **Engage actively** - Participate fully in cultural integration
+3. **Complete [TIK Certification](./TIK-Certification-Program.md)** - Validate cultural integration
+4. **Use [Integration Tools](./Integration-Tools.md)** - Access resources and support
+5. **Engage actively** - Participate fully in virtual cultural integration
 
 ---
 
@@ -107,11 +115,11 @@ graph LR
 - **Diverse perspectives** strengthen our team
 - **Mutual fit** benefits everyone
 
-### Comprehensive Onboarding
-- **90-day integration** journey with clear milestones
-- **Cultural immersion** from day one
-- **Support systems** including buddy and manager
-- **Continuous feedback** and adjustment
+### Comprehensive Remote Onboarding
+- **90-day integration** journey with clear milestones and TIK certification
+- **Virtual cultural immersion** from day one
+- **Digital support systems** including buddy and manager
+- **Continuous feedback** and assessment-based adjustment
 
 ### Success Measurement
 - **Cultural integration** and values demonstration
@@ -130,10 +138,10 @@ graph LR
 - **Hiring manager satisfaction** - Quality of candidates and process
 
 ### Onboarding Success
-- **Cultural integration** - Values understanding and demonstration
-- **Performance milestones** - Achievement of 30/60/90-day goals
-- **Team relationships** - Positive integration and collaboration
-- **New hire satisfaction** - Experience quality and support effectiveness
+- **Cultural integration** - TIK certification achievement and values demonstration
+- **Performance milestones** - Achievement of 30/60/90-day goals with certification
+- **Team relationships** - Positive virtual integration and remote collaboration
+- **New hire satisfaction** - Remote experience quality and digital support effectiveness
 
 ---
 
