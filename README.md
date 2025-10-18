@@ -38,10 +38,14 @@ People & Culture/
 │   ├── 📄 TIK-Certification-Program.md
 │   └── 📄 Certification-Tracking-Template.md
 │
-└── 📁 Recognition-Rituals/ (Keeping culture alive)
-    ├── 📄 Recognition-Framework.md
-    ├── 📄 Daily-Rituals.md
-    └── 📄 Special-Programs.md
+├── 📁 Recognition-Rituals/ (Keeping culture alive)
+│   ├── 📄 Recognition-Framework.md
+│   ├── 📄 Daily-Rituals.md
+│   └── 📄 Special-Programs.md
+│
+└── 📁 Roadmap/ (Implementation guides)
+    ├── 📄 _Overview.md
+    └── 📄 2-Month-Operational-Roadmap.md (😨 URGENT)
 ```
 
 
@@ -68,18 +72,19 @@ People & Culture/
 **Managers:**
 
 1. [Leadership Overview](./Leadership/_Overview.md) - Leadership principles
-2. [Leadership Tools](./Leadership/Leadership-Tools.md) - Practical resources
-3. [Playbook Overview](./Playbook/_Overview.md) - Operations framework
-4. [Recognition Framework](./Recognition-Rituals/Recognition-Framework.md) - Celebrate excellence
+2. [Leadership Excellence Roadmap](./Roadmap/Leadership-Excellence-Roadmap.md) - Development guide
+3. [Leadership Tools](./Leadership/Leadership-Tools.md) - Practical resources
+4. [Playbook Overview](./Playbook/_Overview.md) - Operations framework
+5. [Recognition Framework](./Recognition-Rituals/Recognition-Framework.md) - Celebrate excellence
 
-**HR/People & Culture:**
+**HR/People & Culture Domain Lead:**
 
-1. [Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md) - Cultural hiring
-2. [TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md) - Assessment system
-3. [Integration Tools](./Hiring-Onboarding/Integration-Tools.md) - Onboarding resources
-4. [Certification Tracking](./Hiring-Onboarding/Certification-Tracking-Template.md) - Progress monitoring
-5. [Leadership Development](./Leadership/Leadership-Development.md) - Growing leaders
-6. [Special Programs](./Recognition-Rituals/Special-Programs.md) - Culture events
+1. [😨 2-Month Operational Roadmap](./Roadmap/2-Month-Operational-Roadmap.md) - URGENT: Ready for employees
+2. [This Week's Actions](./Roadmap/_Overview.md) - Your immediate daily tasks
+3. [Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md) - Cultural hiring (✅ Complete)
+4. [TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md) - Assessment system (✅ Complete)
+5. [Culture Foundation](./Culture/_Overview.md) - Values and principles (✅ Complete)
+6. [Operating Principles](./Operating-Principles/_Overview.md) - Behavioral guidelines (✅ Complete)
 
 **Everyone:**
 

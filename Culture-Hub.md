@@ -40,6 +40,18 @@
 - **[Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
 - **[Special Programs](./Recognition-Rituals/Special-Programs.md)** - Awards and celebrations
 
+### 😨 URGENT: Operational Readiness
+- **[2-Month Operational Roadmap](./Roadmap/2-Month-Operational-Roadmap.md)** - 😨 CRITICAL: Ready for incoming employees
+- **[Current Week Actions](./Roadmap/_Overview.md)** - Your immediate priorities and tasks
+
+### 🗺️ Long-term Strategic Plans
+*These can wait until operational foundation is complete:*
+- Foundation systems planning
+- Advanced talent lifecycle programs
+- Culture measurement and analytics
+- Leadership development programs
+- Data-driven insights platform
+
 ---
 
 ## Quick Start Guides

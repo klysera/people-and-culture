@@ -4,7 +4,7 @@
 
 ---
 
-## Truth Stories
+## Truth Stories (To be updated later with actual stories)
 
 ### The Data That Changed Everything
 **Challenge:** Team convinced their approach was optimal
