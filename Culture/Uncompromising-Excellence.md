@@ -2,7 +2,7 @@
 
 **"Delivering exceptional quality that exceeds expectations in everything we do"**
 
-**[← Back to Values Overview](./Klysera-Values-Overview.md)**
+**[← Back to Values Overview](./TIK-Identity.md)**
 
 ---
 
@@ -95,7 +95,7 @@ When all three work together, we find the best approach, execute it perfectly, a
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](../Operating-Principles/Operating-Principles-Overview.md):**
+**For practical implementation of this value, see [Operating Principles](../Operating-Principles/_Overview.md):**
 - **Excellence with Warmth** - How to maintain high standards with care
 - **Results Over Motion** - How to focus on outcomes that matter
 - **Radical Simplicity** - How to achieve excellence through clarity

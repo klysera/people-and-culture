@@ -178,7 +178,7 @@ graph LR
 ## Related Resources
 
 - **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values for assessment
-- **[Leadership Overview →](../Leadership/Leadership-Overview.md)** - Manager responsibilities
+- **[Leadership Overview →](../Leadership/_Overview.md)** - Manager responsibilities
 - **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - Celebrating integration success
 - **[← Back to Culture Hub](../Culture-Hub.md)**
 

@@ -74,7 +74,7 @@ This comprehensive resource includes:
 - **[Complete Daily Rituals Guide →](../../Recognition-Rituals/Daily-Rituals.md)** - Comprehensive practices and tools
 - **[Recognition Framework →](../../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
 - **[TIK Language Guide →](./TIK-Language-Guide.md)** - Speaking TIK fluently
-- **[Operating Principles Overview →](../Operating-Principles-Overview.md)** - Our 7 core principles
+- **[Operating Principles Overview →](../_Overview.md)** - Our 7 core principles
 
 ---
 

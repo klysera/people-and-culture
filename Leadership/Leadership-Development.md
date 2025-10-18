@@ -343,7 +343,7 @@ mindmap
 
 ## Related Resources
 
-- **[Leadership Overview →](./Leadership-Overview.md)** - Core leadership principles
+- **[Leadership Overview →](./_Overview.md)** - Core leadership principles
 - **[Leadership Tools →](./Leadership-Tools.md)** - Practical resources
 - **[Leadership Assessment →](./Leadership-Assessment.md)** - Performance evaluation
 - **[← Back to Culture Hub](../Culture-Hub.md)**

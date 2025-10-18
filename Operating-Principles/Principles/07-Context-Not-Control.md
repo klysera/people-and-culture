@@ -2,7 +2,7 @@
 
 **"Empower through information and purpose."**
 
-**[← Back to Operating Principles Overview](../Operating-Principles-Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 

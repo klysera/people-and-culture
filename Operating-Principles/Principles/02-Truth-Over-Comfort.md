@@ -2,7 +2,7 @@
 
 **"Seek what's right, not what's easy."**
 
-**[← Back to Operating Principles Overview](../Operating-Principles-Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 

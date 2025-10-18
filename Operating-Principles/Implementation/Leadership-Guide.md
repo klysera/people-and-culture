@@ -430,4 +430,4 @@ graph TD
 
 ---
 
-*[← Back to Values Overview](../Klysera-Values-Overview.md) | [View Implementation Guide →](../Implementation/Quick-Start-Guide.md)*
+*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Implementation Guide →](../Implementation/Quick-Start-Guide.md)*

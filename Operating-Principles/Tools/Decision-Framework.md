@@ -340,4 +340,4 @@ When you must decide immediately:
 
 ---
 
-*[← Back to Values Overview](../Klysera-Values-Overview.md) | [View Daily Rituals →](../Shared-Frameworks.md#daily-rituals-framework)*
+*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Daily Rituals →](../Shared-Frameworks.md#daily-rituals-framework)*

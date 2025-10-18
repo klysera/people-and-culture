@@ -159,7 +159,7 @@ For any significant decision, ask these 7 questions:
 
 ```
 Operating-Principles/
-├── 📄 Operating-Principles-Overview.md (This file)
+├── 📄 _Overview.md (This file)
 ├── 📁 Principles/
 │   ├── 📄 01-Experimental-Mindset.md
 │   ├── 📄 02-Truth-Over-Comfort.md

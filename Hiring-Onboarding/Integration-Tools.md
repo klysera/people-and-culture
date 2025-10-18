@@ -186,8 +186,8 @@
 **Essential Documents**
 - [Culture Manifesto](../Culture/Culture-Manifesto.md)
 - [TIK Identity](../Culture/TIK-Identity.md)
-- [Operating Principles Overview](../../Operating-Principles/Operating-Principles-Overview.md)
-- [Playbook Overview](../Playbook/Playbook-Overview.md)
+- [Operating Principles Overview](../../Operating-Principles/_Overview.md)
+- [Playbook Overview](../Playbook/_Overview.md)
 
 **Learning Materials**
 - Company history and timeline

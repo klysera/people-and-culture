@@ -347,4 +347,4 @@ graph LR
 
 ---
 
-*[← Back to Values Overview](../Klysera-Values-Overview.md) | [View Shared Frameworks →](../Shared-Frameworks.md)*
+*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Shared Frameworks →](../Shared-Frameworks.md)*

@@ -371,7 +371,7 @@
 
 ## Related Resources
 
-- **[Leadership Overview →](./Leadership-Overview.md)** - Core leadership principles
+- **[Leadership Overview →](./_Overview.md)** - Core leadership principles
 - **[Leadership Development →](./Leadership-Development.md)** - Growth and training
 - **[Leadership Tools →](./Leadership-Tools.md)** - Practical resources
 - **[← Back to Culture Hub](../Culture-Hub.md)**

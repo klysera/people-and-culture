@@ -62,7 +62,7 @@ For any significant decision, ask:
 - **[Communication Guide →](./Communication-Guide.md)** - How to communicate decisions
 - **[Meeting Culture →](./Meeting-Culture.md)** - Group decision processes
 - **[Leadership Tools →](../Leadership/Leadership-Tools.md)** - Leadership decision support
-- **[← Back to Playbook Overview](./Playbook-Overview.md)**
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

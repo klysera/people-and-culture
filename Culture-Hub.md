@@ -7,13 +7,13 @@
 ## Quick Navigation
 
 ### 🏛️ Culture Foundation
-- **[Culture Overview](./Culture/Culture-Overview.md)** - Complete culture module guide
+- **[Culture Overview](./Culture/_Overview.md)** - Complete culture module guide
 - **[Culture Manifesto](./Culture/Culture-Manifesto.md)** - Who we are: Story & emotion
 - **[TIK Identity](./Culture/TIK-Identity.md)** - Our values and cultural DNA
 - **[Culture Stories](./Culture/Culture-Stories.md)** - Inspiring examples and narratives
 
 ### 📚 Daily Operations
-- **[Playbook Overview](./Playbook/Playbook-Overview.md)** - Daily operations framework
+- **[Playbook Overview](./Playbook/_Overview.md)** - Daily operations framework
 - **[Communication Guide](./Playbook/Communication-Guide.md)** - How we communicate
 - **[Meeting Culture](./Playbook/Meeting-Culture.md)** - How we meet effectively
 - **[Decision Framework](./Playbook/Decision-Framework.md)** - How we make decisions
@@ -21,19 +21,19 @@
 - **[Policies & Guidelines](./Playbook/Policies-Guidelines.md)** - Standards and requirements
 
 ### 👥 Leadership Excellence
-- **[Leadership Overview](./Leadership/Leadership-Overview.md)** - Leadership principles
+- **[Leadership Overview](./Leadership/_Overview.md)** - Leadership principles
 - **[Leadership Development](./Leadership/Leadership-Development.md)** - Growing leaders
 - **[Leadership Tools](./Leadership/Leadership-Tools.md)** - Practical resources
 - **[Leadership Assessment](./Leadership/Leadership-Assessment.md)** - Performance evaluation
 
 ### 🎯 Hiring & Onboarding
-- **[Hiring & Onboarding Overview](./Hiring-Onboarding/Hiring-Onboarding-Overview.md)** - Complete module guide
+- **[Hiring & Onboarding Overview](./Hiring-Onboarding/_Overview.md)** - Complete module guide
 - **[Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md)** - Cultural hiring approach
 - **[Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)** - First 90 days
 - **[Integration Tools](./Hiring-Onboarding/Integration-Tools.md)** - Resources and checklists
 
 ### 🎉 Recognition & Rituals
-- **[Recognition & Rituals Overview](./Recognition-Rituals/Recognition-Rituals-Overview.md)** - Complete module guide
+- **[Recognition & Rituals Overview](./Recognition-Rituals/_Overview.md)** - Complete module guide
 - **[Recognition Framework](./Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
 - **[Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
 - **[Special Programs](./Recognition-Rituals/Special-Programs.md)** - Awards and celebrations
@@ -43,17 +43,17 @@
 ## Quick Start Guides
 
 ### For New Team Members
-1. Start with [Culture Overview](./Culture/Culture-Overview.md)
+1. Start with [Culture Overview](./Culture/_Overview.md)
 2. Read [Culture Manifesto](./Culture/Culture-Manifesto.md)
 3. Study [TIK Identity](./Culture/TIK-Identity.md)
 4. Follow [Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)
 5. Practice [Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)
 
 ### For Managers
-1. Master [Culture Overview](./Culture/Culture-Overview.md)
-2. Study [Leadership Overview](./Leadership/Leadership-Overview.md)
-3. Use [Playbook Overview](./Playbook/Playbook-Overview.md)
-4. Implement [Recognition & Rituals Overview](./Recognition-Rituals/Recognition-Rituals-Overview.md)
+1. Master [Culture Overview](./Culture/_Overview.md)
+2. Study [Leadership Overview](./Leadership/_Overview.md)
+3. Use [Playbook Overview](./Playbook/_Overview.md)
+4. Implement [Recognition & Rituals Overview](./Recognition-Rituals/_Overview.md)
 5. Reference [Decision Framework](./Operating-Principles/Tools/Decision-Framework.md)
 
 ### For Everyone

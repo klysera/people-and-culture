@@ -308,8 +308,8 @@
 
 - **[Communication Guide →](./Communication-Guide.md)** - Professional communication standards
 - **[Meeting Culture →](./Meeting-Culture.md)** - Meeting professionalism
-- **[Leadership Overview →](../Leadership/Leadership-Overview.md)** - Leadership responsibilities
-- **[← Back to Playbook Overview](./Playbook-Overview.md)**
+- **[Leadership Overview →](../Leadership/_Overview.md)** - Leadership responsibilities
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

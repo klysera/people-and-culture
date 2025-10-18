@@ -17,9 +17,9 @@ After conducting a comprehensive audit of the People & Culture directory, I have
    - **Daily Rituals duplication**: Single source now in Recognition-Rituals/
 
 2. **❌ MISSING OVERVIEW FILES CREATED**
-   - **Culture/Culture-Overview.md**: Complete culture module guide
-   - **Hiring-Onboarding/Hiring-Onboarding-Overview.md**: Complete hiring & onboarding guide
-   - **Recognition-Rituals/Recognition-Rituals-Overview.md**: Complete recognition & rituals guide
+   - **Culture/_Overview.md**: Complete culture module guide
+   - **Hiring-Onboarding/_Overview.md**: Complete hiring & onboarding guide
+   - **Recognition-Rituals/_Overview.md**: Complete recognition & rituals guide
 
 3. **❌ BROKEN NAVIGATION FIXED**
    - Updated Culture-Hub.md with new overview files
@@ -37,7 +37,7 @@ People & Culture/
 ├── 📄 STRUCTURE-REVIEW-SUMMARY.md (This file)
 │
 ├── 📁 Culture/ (WHO WE ARE - Single source for values & identity)
-│   ├── 📄 Culture-Overview.md ⭐ NEW OVERVIEW
+│   ├── 📄 _Overview.md ⭐ NEW OVERVIEW
 │   ├── 📄 Culture-Manifesto.md
 │   ├── 📄 TIK-Identity.md
 │   ├── 📄 Culture-Stories.md
@@ -46,14 +46,14 @@ People & Culture/
 │   └── 📄 Meaningful-Impact.md (moved from Values-Foundation)
 │
 ├── 📁 Operating-Principles/ (HOW WE WORK - Authoritative framework)
-│   ├── 📄 Operating-Principles-Overview.md
+│   ├── 📄 _Overview.md
 │   ├── 📁 Principles/ (7 core principles)
 │   ├── 📁 Tools/ (Decision framework, rituals, language guide)
 │   ├── 📁 Implementation/ (Quick start, leadership guide)
 │   └── 📁 Measurement/ (Culture metrics)
 │
 ├── 📁 Playbook/ (DAILY OPERATIONS - References Operating-Principles)
-│   ├── 📄 Playbook-Overview.md
+│   ├── 📄 _Overview.md
 │   ├── 📄 Communication-Guide.md
 │   ├── 📄 Meeting-Culture.md
 │   ├── 📄 Decision-Framework.md (now references Operating-Principles)
@@ -61,19 +61,19 @@ People & Culture/
 │   └── 📄 Policies-Guidelines.md
 │
 ├── 📁 Leadership/ (LEADERSHIP MODEL - Complete module)
-│   ├── 📄 Leadership-Overview.md
+│   ├── 📄 _Overview.md
 │   ├── 📄 Leadership-Development.md
 │   ├── 📄 Leadership-Tools.md
 │   └── 📄 Leadership-Assessment.md
 │
 ├── 📁 Hiring-Onboarding/ (CULTURAL ALIGNMENT - Complete module)
-│   ├── 📄 Hiring-Onboarding-Overview.md ⭐ NEW OVERVIEW
+│   ├── 📄 _Overview.md ⭐ NEW OVERVIEW
 │   ├── 📄 Hiring-Guide.md
 │   ├── 📄 Onboarding-Journey.md
 │   └── 📄 Integration-Tools.md
 │
 └── 📁 Recognition-Rituals/ (CULTURE PRACTICES - Complete module)
-    ├── 📄 Recognition-Rituals-Overview.md ⭐ NEW OVERVIEW
+    ├── 📄 _Overview.md ⭐ NEW OVERVIEW
     ├── 📄 Recognition-Framework.md
     ├── 📄 Daily-Rituals.md
     └── 📄 Special-Programs.md
@@ -114,7 +114,7 @@ People & Culture/
 
 ### 📋 Navigation Hierarchy
 1. **Start**: Culture-Hub.md (main navigation)
-2. **Explore**: Module overview files (Culture-Overview.md, etc.)
+2. **Explore**: Module overview files (_Overview.md, etc.)
 3. **Deep Dive**: Specific topic files
 4. **Cross-Reference**: Related resources linked
 5. **Return**: Back to hub or overview

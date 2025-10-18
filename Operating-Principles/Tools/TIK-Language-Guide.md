@@ -232,4 +232,4 @@ Share new TIK language monthly to keep culture fresh and authentic.
 
 ---
 
-*[← Back to Values Overview](../Klysera-Values-Overview.md) | [View TIK Standard Guide →](../04-TIK-Standard-Guide.md)*
+*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View TIK Standard Guide →](../04-TIK-Standard-Guide.md)*

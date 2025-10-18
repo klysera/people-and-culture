@@ -158,7 +158,7 @@ Our three core values represent our fundamental beliefs and identity as an organ
 ### Operating Principles Define How We Work
 To translate these values into daily excellence, we have developed 7 Core Operating Principles that provide specific guidance on how to live these values in practice.
 
-**[📖 Explore Our Operating Principles →](../../Operating-Principles/Operating-Principles-Overview.md)**
+**[📖 Explore Our Operating Principles →](../../Operating-Principles/_Overview.md)**
 
 ---
 

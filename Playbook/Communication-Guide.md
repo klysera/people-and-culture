@@ -245,7 +245,7 @@ Thank you for living TIK!
 - **[Meeting Culture →](./Meeting-Culture.md)** - How we meet effectively
 - **[Decision Framework →](./Decision-Framework.md)** - How we make decisions
 - **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Playbook Overview](./Playbook-Overview.md)**
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

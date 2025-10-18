@@ -2,7 +2,7 @@
 
 **"Eliminate complexity that doesn't add value."**
 
-**[← Back to Operating Principles Overview](../Operating-Principles-Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 

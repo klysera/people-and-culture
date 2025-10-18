@@ -2,7 +2,7 @@
 
 **"Turn every experience into immediate improvement."**
 
-**[← Back to Operating Principles Overview](../Operating-Principles-Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 

@@ -281,7 +281,7 @@
 - **[Communication Guide →](./Communication-Guide.md)** - How we communicate
 - **[Decision Framework →](./Decision-Framework.md)** - How we make decisions
 - **[Daily Operations →](./Daily-Operations.md)** - Our work rhythms
-- **[← Back to Playbook Overview](./Playbook-Overview.md)**
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

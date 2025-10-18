@@ -2,7 +2,7 @@
 
 **"Measure impact, not activity."**
 
-**[← Back to Operating Principles Overview](../Operating-Principles-Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 

@@ -286,4 +286,4 @@ Week 3: Live TIK
 
 ---
 
-*[← Back to Values Overview](../Klysera-Values-Overview.md) | [View Leadership Guide →](../Leadership/Leadership-Responsibilities.md)*
+*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Leadership Guide →](../Leadership/Leadership-Responsibilities.md)*
