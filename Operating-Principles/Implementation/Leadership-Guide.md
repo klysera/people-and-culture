@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
 
 ---
 

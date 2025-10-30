@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🏆 Recognition & Rituals](./_Overview.md)** | **Special Programs**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🏆 Recognition & Rituals](./_Overview)** | **Special Programs**
 
 ---
 

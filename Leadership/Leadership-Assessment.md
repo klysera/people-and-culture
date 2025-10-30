@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[👑 Leadership](./_Overview.md)** | **Leadership Assessment**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[👑 Leadership](./_Overview)** | **Leadership Assessment**
 
 ---
 
@@ -375,7 +375,7 @@
 
 ## Related Resources
 
-- **[Leadership Overview →](./_Overview.md)** - Core leadership principles
+- **[Leadership Overview →](./_Overview)** - Core leadership principles
 - **[Leadership Development →](./Leadership-Development.md)** - Growth and training
 - **[Leadership Tools →](./Leadership-Tools.md)** - Practical resources
 - **[← Back to Culture Hub](../Culture-Hub.md)**

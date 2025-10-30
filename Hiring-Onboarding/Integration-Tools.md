@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview.md)** | **Integration Tools**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview)** | **Integration Tools**
 
 ---
 
@@ -190,8 +190,8 @@
 **Essential Documents**
 - [Culture Manifesto](../Culture/Culture-Manifesto.md)
 - [TIK Identity](../Culture/TIK-Identity.md)
-- [Operating Principles Overview](../../Operating-Principles/_Overview.md)
-- [Playbook Overview](../Playbook/_Overview.md)
+- [Operating Principles Overview](../../Operating-Principles/_Overview)
+- [Playbook Overview](../Playbook/_Overview)
 
 **Learning Materials**
 - Company history and timeline

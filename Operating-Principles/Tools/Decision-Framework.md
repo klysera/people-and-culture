@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Decision Framework**
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Decision Framework**
 
 ---
 

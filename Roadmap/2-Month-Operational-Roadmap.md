@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🗺️ Roadmap](./_Overview.md)** | **2-Month Operational Roadmap**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🗺️ Roadmap](./_Overview)** | **2-Month Operational Roadmap**
 
 ---
 
@@ -459,12 +459,12 @@ mindmap
 | **Individual Value Deep-Dives** | ✅ Complete | Culture/Relentless-Truth.md, Uncompromising-Excellence.md, Meaningful-Impact.md | Week 1 (Foundation) |
 | **Culture Manifesto** | ✅ Complete | Culture/Culture-Manifesto.md | Week 1 (Foundation) |
 | **Culture Stories & Examples** | ✅ Complete | Culture/Culture-Stories.md | Week 1 (Foundation) |
-| **Culture Module Overview** | ✅ Complete | Culture/_Overview.md | Week 1 (Foundation) |
+| **Culture Module Overview** | ✅ Complete | Culture/_Overview | Week 1 (Foundation) |
 
 #### **⚙️ Operating Principles Module - COMPLETE**
 | Document | Status | Location | Implementation Priority |
 |----------|--------|----------|------------------------|
-| **7 Operating Principles Overview** | ✅ Complete | Operating-Principles/_Overview.md | Week 2 (Decision Framework) |
+| **7 Operating Principles Overview** | ✅ Complete | Operating-Principles/_Overview | Week 2 (Decision Framework) |
 | **Individual Principle Deep-Dives** | ✅ Complete | Operating-Principles/Principles/01-07-*.md (7 files) | Week 2 (Decision Framework) |
 | **Decision Framework Tools** | ✅ Complete | Operating-Principles/Tools/Decision-Framework.md | Week 2 (Decision Framework) |
 | **TIK Language Guide** | ✅ Complete | Operating-Principles/Tools/TIK-Language-Guide.md | Week 2 (Communication) |
@@ -475,7 +475,7 @@ mindmap
 #### **📚 Daily Operations Playbook - COMPLETE**
 | Document | Status | Location | Implementation Priority |
 |----------|--------|----------|------------------------|
-| **Playbook Overview** | ✅ Complete | Playbook/_Overview.md | Week 3 (Operations) |
+| **Playbook Overview** | ✅ Complete | Playbook/_Overview | Week 3 (Operations) |
 | **Communication Guidelines** | ✅ Complete | Playbook/Communication-Guide.md | Week 3 (Operations) |
 | **Meeting Culture Standards** | ✅ Complete | Playbook/Meeting-Culture.md | Week 3 (Operations) |
 | **Decision Framework** | ✅ Complete | Playbook/Decision-Framework.md | Week 3 (Operations) |
@@ -485,7 +485,7 @@ mindmap
 #### **👥 Leadership Excellence Module - COMPLETE**
 | Document | Status | Location | Implementation Priority |
 |----------|--------|----------|------------------------|
-| **Leadership Overview** | ✅ Complete | Leadership/_Overview.md | Week 3 (Manager Training) |
+| **Leadership Overview** | ✅ Complete | Leadership/_Overview | Week 3 (Manager Training) |
 | **Leadership Development Framework** | ✅ Complete | Leadership/Leadership-Development.md | Week 6 (Development) |
 | **Leadership Tools & Resources** | ✅ Complete | Leadership/Leadership-Tools.md | Week 3 (Manager Training) |
 | **Leadership Assessment System** | ✅ Complete | Leadership/Leadership-Assessment.md | Week 7 (Performance) |
@@ -493,7 +493,7 @@ mindmap
 #### **🎯 Hiring & Onboarding Module - COMPLETE**
 | Document | Status | Location | Implementation Priority |
 |----------|--------|----------|------------------------|
-| **Hiring & Onboarding Overview** | ✅ Complete | Hiring-Onboarding/_Overview.md | Week 5 (Onboarding) |
+| **Hiring & Onboarding Overview** | ✅ Complete | Hiring-Onboarding/_Overview | Week 5 (Onboarding) |
 | **Cultural Hiring Guide** | ✅ Complete | Hiring-Onboarding/Hiring-Guide.md | Week 1 (Foundation) |
 | **30-Day Onboarding Journey** | ✅ Complete | Hiring-Onboarding/Onboarding-Journey.md | Week 5 (Employee Experience) |
 | **TIK Certification Program** | ✅ Complete | Hiring-Onboarding/TIK-Certification-Program.md | Week 5 (Onboarding) |
@@ -503,7 +503,7 @@ mindmap
 #### **🎉 Recognition & Rituals Module - COMPLETE**
 | Document | Status | Location | Implementation Priority |
 |----------|--------|----------|------------------------|
-| **Recognition & Rituals Overview** | ✅ Complete | Recognition-Rituals/_Overview.md | Week 6 (Employee Experience) |
+| **Recognition & Rituals Overview** | ✅ Complete | Recognition-Rituals/_Overview | Week 6 (Employee Experience) |
 | **Recognition Framework** | ✅ Complete | Recognition-Rituals/Recognition-Framework.md | Week 6 (Employee Experience) |
 | **Daily Rituals Guide** | ✅ Complete | Recognition-Rituals/Daily-Rituals.md | Week 6 (Employee Experience) |
 | **Special Programs & Celebrations** | ✅ Complete | Recognition-Rituals/Special-Programs.md | Week 6 (Employee Experience) |

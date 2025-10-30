@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Truth Over Comfort**
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Truth Over Comfort**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Seek what's right, not what's easy."**
 
-**[← Back to Operating Principles Overview](../_Overview.md)**
+**[← Back to Operating Principles Overview](../_Overview)**
 
 ---
 

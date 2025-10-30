@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./_Overview.md)** | **Uncompromising Excellence**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./_Overview)** | **Uncompromising Excellence**
 
 ---
 
@@ -99,7 +99,7 @@ When all three work together, we find the best approach, execute it perfectly, a
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](../Operating-Principles/_Overview.md):**
+**For practical implementation of this value, see [Operating Principles](../Operating-Principles/_Overview):**
 - **Excellence with Warmth** - How to maintain high standards with care
 - **Results Over Motion** - How to focus on outcomes that matter
 - **Radical Simplicity** - How to achieve excellence through clarity
