@@ -17,13 +17,10 @@
   * [Playbook Overview](docs/Klysera/Playbook/Overview.md)
   * [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)
 
-* **HR/People & Culture**
-  * [This Week's Actions](docs/Klysera/Roadmap/Overview.md)
-  * [Hiring Guide](docs/Klysera/Hiring-Onboarding/Hiring-Guide.md)
-  * [Research Hub](Research/README.md)
-  * [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
 
 * **Research**
-  * [Research Hub](Research/README.md)
+  * [Research Overview](Research/README.md)
   * [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
-  * [File Structure](docs/Klysera/FILE-STRUCTURE.md)
+  * [GitLab Research](Research/GitLab/README.md)
+  * [Zapier Research](Research/Zapier/Mission-Vision-Values.md)
+  * [Doist Research](Research/Doist/Mission-Vision-Values.md)

@@ -300,15 +300,23 @@
                 header.style.userSelect = 'none';
                 header.style.fontSize = '14px';
 
+                // Store original text content without any carets
+                if (!header.dataset.originalText) {
+                  header.dataset.originalText = header.textContent.replace(/^[▼▶▾▸]\s*/, '');
+                }
+
+                const originalText = header.dataset.originalText;
+
                 // Use smaller caret icons
                 const isExpanded = isActiveSection;
                 const caretIcon = isExpanded ? '▾' : '▸'; // Smaller Unicode triangles
-                header.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${caretIcon}</span>` + header.textContent.replace(/^[▼▶▾▸] /, '');
+                header.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${caretIcon}</span>${originalText}`;
 
                 // Set initial state: only active section expanded
                 nextElement.style.display = isActiveSection ? 'block' : 'none';
 
-                // Add click handler
+                // Add click handler (remove existing ones first)
+                header.onclick = null;
                 header.onclick = function() {
                   const isVisible = nextElement.style.display !== 'none';
 
@@ -317,16 +325,17 @@
                     const otherElement = otherHeader.nextElementSibling;
                     if (otherElement && otherElement.tagName === 'UL' && otherHeader !== header) {
                       otherElement.style.display = 'none';
-                      const otherText = otherHeader.textContent.replace(/^[▼▶▾▸] /, '');
-                      otherHeader.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">▸</span>` + otherText;
+                      const otherOriginalText = otherHeader.dataset.originalText;
+                      if (otherOriginalText) {
+                        otherHeader.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">▸</span>${otherOriginalText}`;
+                      }
                     }
                   });
 
                   // Toggle current section
                   nextElement.style.display = isVisible ? 'none' : 'block';
-                  const currentText = this.textContent.replace(/^[▼▶▾▸] /, '');
                   const newCaret = isVisible ? '▸' : '▾';
-                  this.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${newCaret}</span>` + currentText;
+                  header.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${newCaret}</span>${originalText}`;
                 };
               }
             });
