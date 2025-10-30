@@ -1,11 +1,11 @@
-# Klysera People & Culture
 
-## Getting Started
+
+### Getting Started
 - [Home](README.md)
 - [Culture Hub](docs/Klysera/Culture-Hub.md)
 - [File Structure](docs/Klysera/FILE-STRUCTURE.md)
 
-## Culture Foundation
+### Culture Foundation
 - [Overview](docs/Klysera/Culture/Overview.md)
 - [Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)
 - [TIK Identity](docs/Klysera/Culture/TIK-Identity.md)
@@ -14,7 +14,7 @@
 - [Relentless Truth](docs/Klysera/Culture/Relentless-Truth.md)
 - [Uncompromising Excellence](docs/Klysera/Culture/Uncompromising-Excellence.md)
 
-## Hiring & Onboarding
+### Hiring & Onboarding
 - [Overview](docs/Klysera/Hiring-Onboarding/Overview.md)
 - [Hiring Guide](docs/Klysera/Hiring-Onboarding/Hiring-Guide.md)
 - [Onboarding Journey](docs/Klysera/Hiring-Onboarding/Onboarding-Journey.md)
@@ -22,13 +22,13 @@
 - [Certification Tracking](docs/Klysera/Hiring-Onboarding/Certification-Tracking-Template.md)
 - [Integration Tools](docs/Klysera/Hiring-Onboarding/Integration-Tools.md)
 
-## Leadership Excellence
+### Leadership Excellence
 - [Overview](docs/Klysera/Leadership/Overview.md)
 - [Leadership Development](docs/Klysera/Leadership/Leadership-Development.md)
 - [Leadership Tools](docs/Klysera/Leadership/Leadership-Tools.md)
 - [Leadership Assessment](docs/Klysera/Leadership/Leadership-Assessment.md)
 
-## Operating Playbook
+### Operating Playbook
 - [Overview](docs/Klysera/Playbook/Overview.md)
 - [Communication Guide](docs/Klysera/Playbook/Communication-Guide.md)
 - [Meeting Culture](docs/Klysera/Playbook/Meeting-Culture.md)
@@ -36,7 +36,7 @@
 - [Daily Operations](docs/Klysera/Playbook/Daily-Operations.md)
 - [Policies & Guidelines](docs/Klysera/Playbook/Policies-Guidelines.md)
 
-## Operating Principles
+### Operating Principles
 - [Overview](docs/Klysera/Operating-Principles/Overview.md)
 - **Core Principles**
   - [Principles Overview](docs/Klysera/Operating-Principles/Principles/Overview.md)
@@ -48,17 +48,17 @@
 - **Tools**
   - [Tools Overview](docs/Klysera/Operating-Principles/Tools/Overview.md)
 
-## Recognition & Rituals
+### Recognition & Rituals
 - [Overview](docs/Klysera/Recognition-Rituals/Overview.md)
 - [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)
 - [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)
 - [Special Programs](docs/Klysera/Recognition-Rituals/Special-Programs.md)
 
-## Roadmap
+### Roadmap
 - [Overview](docs/Klysera/Roadmap/Overview.md)
 - [2-Month Operational Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)
 
-## Research & Insights
+### Research & Insights
 - [Research Overview](Research/README.md)
 - [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
 - [Blog Content Analysis](Research/Blog-Content-Analysis-All-Companies.md)
@@ -86,7 +86,7 @@
 
 ---
 
-## Quick Access
+### Quick Access
 
 ### New Team Members
 1. [Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)
