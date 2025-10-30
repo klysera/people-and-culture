@@ -23,7 +23,7 @@
   * [Research Hub](Research/README.md)
   * [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
 
-* **Resources**
+* **Research**
+  * [Research Hub](Research/README.md)
+  * [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
   * [File Structure](docs/Klysera/FILE-STRUCTURE.md)
-  * [Search](javascript:document.querySelector('.search input[type=search]').focus())
-  * [Documentation](https://github.com/docsifyjs/docsify)

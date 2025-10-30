@@ -38,15 +38,11 @@
 
 ### Operating Principles
 - [Overview](docs/Klysera/Operating-Principles/Overview.md)
-- **Core Principles**
-  - [Principles Overview](docs/Klysera/Operating-Principles/Principles/Overview.md)
-- **Implementation**
-  - [Implementation Overview](docs/Klysera/Operating-Principles/Implementation/Overview.md)
-  - [Leadership Guide](docs/Klysera/Operating-Principles/Implementation/Leadership-Guide.md)
-- **Measurement**
-  - [Measurement Overview](docs/Klysera/Operating-Principles/Measurement/Overview.md)
-- **Tools**
-  - [Tools Overview](docs/Klysera/Operating-Principles/Tools/Overview.md)
+- [Core Principles](docs/Klysera/Operating-Principles/Principles/Overview.md)
+- [Implementation Guide](docs/Klysera/Operating-Principles/Implementation/Overview.md)
+- [Leadership Guide](docs/Klysera/Operating-Principles/Implementation/Leadership-Guide.md)
+- [Measurement](docs/Klysera/Operating-Principles/Measurement/Overview.md)
+- [Tools](docs/Klysera/Operating-Principles/Tools/Overview.md)
 
 ### Recognition & Rituals
 - [Overview](docs/Klysera/Recognition-Rituals/Overview.md)
@@ -62,27 +58,6 @@
 - [Research Overview](Research/README.md)
 - [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
 - [Blog Content Analysis](Research/Blog-Content-Analysis-All-Companies.md)
-- **GitLab Research**
-  - [Mission & Values](Research/GitLab/1_Mission_Vision.md)
-  - [Values & Culture](Research/GitLab/2_Values_Culture.md)
-  - [Hiring Processes](Research/GitLab/3_Hiring_Processes.md)
-  - [Remote Work](Research/GitLab/4_Remote_Work_Principles.md)
-  - [Compensation & Benefits](Research/GitLab/Compensation-Benefits-Total-Rewards.md)
-  - [Performance & L&D](Research/GitLab/Performance-Management-Learning-Development.md)
-  - [DIB Programs](Research/GitLab/Diversity-Inclusion-Belonging-Programs.md)
-- **Zapier Research**
-  - [Mission & Values](Research/Zapier/Mission-Vision-Values.md)
-  - [Remote Work](Research/Zapier/Remote-Work-Principles.md)
-  - [Hiring & Onboarding](Research/Zapier/Hiring-Onboarding.md)
-  - [Benefits & Wellness](Research/Zapier/Employee-Benefits-Wellness-Programs.md)
-  - [DIBE Strategy](Research/Zapier/Diversity-Inclusion-DIBE-Strategy.md)
-- **Doist Research**
-  - [Mission & Values](Research/Doist/Mission-Vision-Values.md)
-  - [Async Communication](Research/Doist/Async-Communication-Framework.md)
-  - [Hiring & Onboarding](Research/Doist/Hiring-Onboarding.md)
-  - [Project Management](Research/Doist/Project-Management-Structure.md)
-  - [Benefits & Mental Health](Research/Doist/Employee-Benefits-Mental-Health.md)
-  - [Performance & Culture](Research/Doist/Performance-Culture-Employee-Experience.md)
 
 ---
 

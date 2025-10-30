@@ -23,7 +23,8 @@
 
     .sidebar > h1 a {
       color: var(--theme-color) !important;
-      font-weight: bold;
+      font-weight: 600;
+      font-size: 18px;
       text-decoration: none;
     }
 
@@ -137,10 +138,13 @@
       loadNavbar: true,
       coverpage: true,
       autoHeader: true,
-      subMaxLevel: 3,
-      maxLevel: 4,
+      subMaxLevel: 2,
+      maxLevel: 3,
       auto2top: true,
       mergeNavbar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       search: {
         noData: 'No results found.',
         paths: 'auto',
@@ -215,7 +219,11 @@
 
       // External link configuration
       externalLinkTarget: '_blank',
-      externalLinkRel: 'noopener'
+      externalLinkRel: 'noopener',
+
+      // Route configuration
+      relativePath: false,
+      basePath: '/people-and-culture/'
     }
   </script>
 
@@ -236,5 +244,8 @@
 
   <!-- External script plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+  <!-- Sidebar collapse plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
