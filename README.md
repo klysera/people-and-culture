@@ -3,20 +3,7 @@
 **[📚 Main Hub](./Culture-Hub.md)** | **[📁 File Structure](./FILE-STRUCTURE.md)** | **[🔍 Site Map](#-complete-site-map)**
 
 ---
-
-## 🚀 Quick Access
  
- 
-- **[🎭 Culture](#-culture)** - Who we are
-- **[📖 Playbook](#-playbook)** - How we operate
-- **[👑 Leadership](#-leadership)** - Leadership excellence
-- **[🎯 Hiring & Onboarding](#-hiring--onboarding)** - Join our team
-- **[🏆 Recognition & Rituals](#-recognition--rituals)** - Celebrate success
-- **[🗺️ Roadmap](#️-roadmap)** - Implementation guides
-- **[🔬 Research](#-research)** - Industry insights
-
-
----
 
 ## 👋 New Team Members
 
