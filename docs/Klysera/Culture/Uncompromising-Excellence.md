@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Uncompromising Excellence**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Uncompromising Excellence**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Delivering exceptional quality that exceeds expectations in everything we do"**
 
-**[← Back to Values Overview](./TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
 
 ---
 

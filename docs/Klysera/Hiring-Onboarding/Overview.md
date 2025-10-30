@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **🎯 Hiring & Onboarding**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **🎯 Hiring & Onboarding**
 
 ---
 
@@ -17,34 +17,34 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 ## Hiring & Onboarding Resources
 
 ### 🎯 Cultural Hiring
-**[Hiring Guide →](./Hiring-Guide.md)**
+**[Hiring Guide →](docs/Klysera/Hiring-Guide.md)**
 - Culture-first hiring philosophy
 - TIK values assessment framework
 - Interview process and best practices
 - Candidate evaluation and decision making
 
 ### 🚀 First 30 Days
-**[Onboarding Journey →](./Onboarding-Journey.md)**
+**[Onboarding Journey →](docs/Klysera/Onboarding-Journey.md)**
 - Pre-arrival preparation for remote work
 - Week-by-week accelerated integration plan
 - TIK certification progression (Foundation → Practitioner → Champion)
 - Success metrics and cultural validation
 
 ### 🛠️ Resources & Tools
-**[Integration Tools →](./Integration-Tools.md)**
+**[Integration Tools →](docs/Klysera/Integration-Tools.md)**
 - Remote onboarding checklists and templates
 - Assessment and feedback tools for distributed teams
 - Training materials and digital resources
 - Support systems and virtual contacts
 
 ### 🎓 TIK Certification
-**[TIK Certification Program →](./TIK-Certification-Program.md)**
+**[TIK Certification Program →](docs/Klysera/TIK-Certification-Program.md)**
 - Four-level certification framework (3 levels in onboarding)
 - Values and principles assessment
 - Remote-friendly validation methods
 - Progress tracking and recognition
 
-**[Certification Tracking →](./Certification-Tracking-Template.md)**
+**[Certification Tracking →](docs/Klysera/Certification-Tracking-Template.md)**
 - Individual progress monitoring template
 - Assessment scoring and validation
 - Remediation and support tracking
@@ -55,15 +55,15 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 ## Quick Start Guides
 
 ### For Hiring Managers
-1. **Review [Hiring Guide](./Hiring-Guide.md)** - Understand cultural hiring approach
+1. **Review [Hiring Guide](docs/Klysera/Hiring-Guide.md)** - Understand cultural hiring approach
 2. **Practice values assessment** - Learn to evaluate TIK alignment
 3. **Use interview frameworks** - Conduct effective cultural interviews
 4. **Plan onboarding** - Prepare for new hire success
 
 ### For HR/People & Culture
-1. **Master [Hiring Guide](./Hiring-Guide.md)** - Lead cultural hiring process
-2. **Implement [Onboarding Journey](./Onboarding-Journey.md)** - Design great experiences
-3. **Use [Integration Tools](./Integration-Tools.md)** - Provide comprehensive support
+1. **Master [Hiring Guide](docs/Klysera/Hiring-Guide.md)** - Lead cultural hiring process
+2. **Implement [Onboarding Journey](docs/Klysera/Onboarding-Journey.md)** - Design great experiences
+3. **Use [Integration Tools](docs/Klysera/Integration-Tools.md)** - Provide comprehensive support
 4. **Measure success** - Track hiring and onboarding effectiveness
 
 ### For Team Members
@@ -74,9 +74,9 @@ This Hiring & Onboarding module ensures we bring in people who will thrive in ou
 
 ### For New Team Members
 1. **Review pre-arrival materials** - Prepare for your remote journey
-2. **Follow [Onboarding Journey](./Onboarding-Journey.md)** - Navigate your first 30 days
-3. **Complete [TIK Certification](./TIK-Certification-Program.md)** - Validate cultural integration
-4. **Use [Integration Tools](./Integration-Tools.md)** - Access resources and support
+2. **Follow [Onboarding Journey](docs/Klysera/Onboarding-Journey.md)** - Navigate your first 30 days
+3. **Complete [TIK Certification](docs/Klysera/TIK-Certification-Program.md)** - Validate cultural integration
+4. **Use [Integration Tools](docs/Klysera/Integration-Tools.md)** - Access resources and support
 5. **Engage actively** - Participate fully in virtual cultural integration
 
 ---
@@ -197,7 +197,7 @@ graph LR
 - **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values for assessment
 - **[Leadership Overview →](/Leadership/Overview.md)** - Manager responsibilities
 - **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - Celebrating integration success
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🗺️ Roadmap](./Overview.md)** | **2-Month Operational Roadmap**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🗺️ Roadmap](docs/Klysera/Overview.md)** | **2-Month Operational Roadmap**
 
 ---
 

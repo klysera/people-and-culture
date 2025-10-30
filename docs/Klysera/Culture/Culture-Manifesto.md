@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Culture Manifesto**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Culture Manifesto**
 
 ---
 
@@ -101,10 +101,10 @@ When we celebrate success, we declare with pride:
 
 ## Related Resources
 
-- **[TIK Identity →](./TIK-Identity.md)** - Deep dive into our values and cultural DNA
-- **[Culture Stories →](./Culture-Stories.md)** - Inspiring examples of TIK in action
+- **[TIK Identity →](docs/Klysera/TIK-Identity.md)** - Deep dive into our values and cultural DNA
+- **[Culture Stories →](docs/Klysera/Culture-Stories.md)** - Inspiring examples of TIK in action
 - **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - How to live TIK every day
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔬 Research](../README.md)** | **[📊 GitLab](./README.md)** | **Team Building**
+**[🏠 Home](docs/Klysera/../README.md)** | **[🧭 Navigation](docs/Klysera/../README.md)** | **[📚 Culture Hub](docs/Klysera/../Culture-Hub.md)** | **[🔬 Research](docs/Klysera/README.md)** | **[📊 GitLab](docs/Klysera/README.md)** | **Team Building**
 
 ---
 

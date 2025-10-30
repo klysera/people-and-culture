@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **👑 Leadership**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **👑 Leadership**
 
 ---
 
@@ -80,21 +80,21 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 ## Leadership Resources
 
 ### 📚 Development & Training
-**[Leadership Development →](./Leadership-Development.md)**
+**[Leadership Development →](docs/Klysera/Leadership-Development.md)**
 - New leader onboarding process
 - Ongoing development programs
 - Competency model and assessment
 - Growth pathway planning
 
 ### 🛠️ Tools & Templates
-**[Leadership Tools →](./Leadership-Tools.md)**
+**[Leadership Tools →](docs/Klysera/Leadership-Tools.md)**
 - Daily leadership practices
 - Decision-making frameworks
 - Communication templates
 - 1:1 meeting structures
 
 ### 📊 Assessment & Feedback
-**[Leadership Assessment →](./Leadership-Assessment.md)**
+**[Leadership Assessment →](docs/Klysera/Leadership-Assessment.md)**
 - Performance standards and metrics
 - 360-degree feedback processes
 - Self-assessment tools
@@ -104,9 +104,9 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ## Quick Start for New Leaders
 
-1. **Study the [Leadership Development](./Leadership-Development.md) guide**
-2. **Practice with [Leadership Tools](./Leadership-Tools.md)**
-3. **Set up regular [Leadership Assessment](./Leadership-Assessment.md) cycles**
+1. **Study the [Leadership Development](docs/Klysera/Leadership-Development.md) guide**
+2. **Practice with [Leadership Tools](docs/Klysera/Leadership-Tools.md)**
+3. **Set up regular [Leadership Assessment](docs/Klysera/Leadership-Assessment.md) cycles**
 4. **Connect with experienced leader mentors**
 
 ---
@@ -150,7 +150,7 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 - **[TIK Identity →](/Culture/TIK-Identity.md)** - Our values foundation
 - **[Operating Principles →](/../Operating-Principles/Overview.md)** - How we work
 - **[Playbook Overview →](/Playbook/Overview.md)** - Daily operations
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

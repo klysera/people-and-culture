@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **📜 Playbook**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **📜 Playbook**
 
 ---
 
@@ -17,31 +17,31 @@ This playbook contains the practical frameworks, policies, and processes that en
 ## Playbook Modules
 
 ### 📞 Communication
-**[Communication Guide →](./Communication-Guide.md)**
+**[Communication Guide →](docs/Klysera/Communication-Guide.md)**
 - TIK communication model
 - Channel guidelines and best practices
 - Feedback and recognition communication
 
 ### 🤝 Meetings
-**[Meeting Culture →](./Meeting-Culture.md)**
+**[Meeting Culture →](docs/Klysera/Meeting-Culture.md)**
 - Meeting standards and types
 - Facilitation best practices
 - Virtual and in-person excellence
 
 ### 🎯 Decision Making
-**[Decision Framework →](./Decision-Framework.md)**
+**[Decision Framework →](docs/Klysera/Decision-Framework.md)**
 - TIK decision process
 - Authority levels and documentation
 - Quick decision tools
 
 ### ⚙️ Operations
-**[Daily Operations →](./Daily-Operations.md)**
+**[Daily Operations →](docs/Klysera/Daily-Operations.md)**
 - TIK daily rhythms
 - Weekly and monthly cycles
 - Performance standards
 
 ### 📋 Policies
-**[Policies & Guidelines →](./Policies-Guidelines.md)**
+**[Policies & Guidelines →](docs/Klysera/Policies-Guidelines.md)**
 - Code of conduct
 - Security and compliance
 - Work environment standards
@@ -50,10 +50,10 @@ This playbook contains the practical frameworks, policies, and processes that en
 
 ## Quick Start for New Team Members
 
-1. **Read [Communication Guide](./Communication-Guide.md)** - How we connect
-2. **Review [Meeting Culture](./Meeting-Culture.md)** - How we collaborate
-3. **Practice [Decision Framework](./Decision-Framework.md)** - How we choose
-4. **Follow [Daily Operations](./Daily-Operations.md)** - How we work
+1. **Read [Communication Guide](docs/Klysera/Communication-Guide.md)** - How we connect
+2. **Review [Meeting Culture](docs/Klysera/Meeting-Culture.md)** - How we collaborate
+3. **Practice [Decision Framework](docs/Klysera/Decision-Framework.md)** - How we choose
+4. **Follow [Daily Operations](docs/Klysera/Daily-Operations.md)** - How we work
 
 ---
 
@@ -78,7 +78,7 @@ This playbook contains the practical frameworks, policies, and processes that en
 - **[Operating Principles →](/../Operating-Principles/Overview.md)** - Our 7 core principles
 - **[Leadership Overview →](/Leadership/Overview.md)** - Leadership guidance
 - **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

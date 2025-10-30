@@ -54,7 +54,12 @@
     .app-nav {
       position: fixed;
       right: 20px;
-      top: 20px;
+      top: 0;
+      background-color: rgba(248, 249, 250, 0.95);
+      backdrop-filter: blur(10px);
+      padding: 15px 20px;
+      border-radius: 0 0 0 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
       z-index: 1000;
     }
 
@@ -274,19 +279,54 @@
           const sidebar = document.querySelector('.sidebar');
           if (sidebar) {
             const headers = sidebar.querySelectorAll('h3');
+            const currentPath = window.location.hash.slice(2); // Remove #/
+
             headers.forEach(header => {
               const nextElement = header.nextElementSibling;
               if (nextElement && nextElement.tagName === 'UL') {
-                // Make header clickable
+                // Check if this section contains the current page
+                const links = nextElement.querySelectorAll('a');
+                let isActiveSection = false;
+
+                links.forEach(link => {
+                  const href = link.getAttribute('href');
+                  if (href && currentPath.includes(href.replace(/^#\//, ''))) {
+                    isActiveSection = true;
+                  }
+                });
+
+                // Make header clickable with smaller caret
                 header.style.cursor = 'pointer';
                 header.style.userSelect = 'none';
-                header.innerHTML = '▼ ' + header.textContent;
+                header.style.fontSize = '14px';
+
+                // Use smaller caret icons
+                const isExpanded = isActiveSection;
+                const caretIcon = isExpanded ? '▾' : '▸'; // Smaller Unicode triangles
+                header.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${caretIcon}</span>` + header.textContent.replace(/^[▼▶▾▸] /, '');
+
+                // Set initial state: only active section expanded
+                nextElement.style.display = isActiveSection ? 'block' : 'none';
 
                 // Add click handler
                 header.onclick = function() {
                   const isVisible = nextElement.style.display !== 'none';
+
+                  // Close all other sections first
+                  headers.forEach(otherHeader => {
+                    const otherElement = otherHeader.nextElementSibling;
+                    if (otherElement && otherElement.tagName === 'UL' && otherHeader !== header) {
+                      otherElement.style.display = 'none';
+                      const otherText = otherHeader.textContent.replace(/^[▼▶▾▸] /, '');
+                      otherHeader.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">▸</span>` + otherText;
+                    }
+                  });
+
+                  // Toggle current section
                   nextElement.style.display = isVisible ? 'none' : 'block';
-                  this.innerHTML = (isVisible ? '▶ ' : '▼ ') + this.textContent.replace(/^[▼▶] /, '');
+                  const currentText = this.textContent.replace(/^[▼▶▾▸] /, '');
+                  const newCaret = isVisible ? '▸' : '▾';
+                  this.innerHTML = `<span style="font-size: 10px; margin-right: 5px;">${newCaret}</span>` + currentText;
                 };
               }
             });

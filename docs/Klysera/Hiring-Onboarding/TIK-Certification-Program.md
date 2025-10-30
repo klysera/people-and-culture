@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **TIK Certification Program**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🎯 Hiring & Onboarding](docs/Klysera/Overview.md)** | **TIK Certification Program**
 
 ---
 
@@ -397,11 +397,11 @@ Team Cultural Readiness: 82% (Strong)
 
 ## Related Resources
 
-- **[Onboarding Journey →](./Onboarding-Journey.md)** - Complete 30-day journey
-- **[Integration Tools →](./Integration-Tools.md)** - Assessment templates
+- **[Onboarding Journey →](docs/Klysera/Onboarding-Journey.md)** - Complete 30-day journey
+- **[Integration Tools →](docs/Klysera/Integration-Tools.md)** - Assessment templates
 - **[TIK Identity →](/Culture/TIK-Identity.md)** - Values foundation
 - **[Operating Principles →](/../Operating-Principles/Overview.md)** - Principle framework
-- **[← Back to Hiring & Onboarding Overview](./Overview.md)**
+- **[← Back to Hiring & Onboarding Overview](docs/Klysera/Overview.md)**
 
 ---
 

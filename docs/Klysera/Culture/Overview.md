@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **🎭 Culture**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **🎭 Culture**
 
 ---
 
@@ -17,50 +17,50 @@ This Culture module contains the foundational elements that define who we are as
 ## Culture Resources
 
 ### 🏛️ Our Foundation
-**[Culture Manifesto →](./Culture-Manifesto.md)**
+**[Culture Manifesto →](docs/Klysera/Culture-Manifesto.md)**
 - Who we are: Our story & emotional connection
 - Origin story and mission
 - What makes us different
 - Our promises to talent, clients, each other, and industry
 
 ### 🎯 Our Identity
-**[TIK Identity →](./TIK-Identity.md)**
+**[TIK Identity →](docs/Klysera/TIK-Identity.md)**
 - Our values and cultural DNA
 - The three core Klysera values explained
 - How values work together
 - Living TIK culture daily
 
 ### 📖 Our Stories
-**[Culture Stories →](./Culture-Stories.md)**
+**[Culture Stories →](docs/Klysera/Culture-Stories.md)**
 - Inspiring examples of TIK in action
 - Real stories from our team
 - How values come alive in daily work
 - Learning examples for everyone
 
 ### 📚 Detailed Value Definitions
-- **[Relentless Truth →](./Relentless-Truth.md)** - Seeking the objectively best way
-- **[Uncompromising Excellence →](./Uncompromising-Excellence.md)** - Delivering exceptional quality
-- **[Meaningful Impact →](./Meaningful-Impact.md)** - Creating genuine transformation
+- **[Relentless Truth →](docs/Klysera/Relentless-Truth.md)** - Seeking the objectively best way
+- **[Uncompromising Excellence →](docs/Klysera/Uncompromising-Excellence.md)** - Delivering exceptional quality
+- **[Meaningful Impact →](docs/Klysera/Meaningful-Impact.md)** - Creating genuine transformation
 
 ---
 
 ## Quick Start Guides
 
 ### For New Team Members
-1. **Read [Culture Manifesto](./Culture-Manifesto.md)** - Understand our story and identity
-2. **Study [TIK Identity](./TIK-Identity.md)** - Learn our three core values
-3. **Browse [Culture Stories](./Culture-Stories.md)** - See values in action
+1. **Read [Culture Manifesto](docs/Klysera/Culture-Manifesto.md)** - Understand our story and identity
+2. **Study [TIK Identity](docs/Klysera/TIK-Identity.md)** - Learn our three core values
+3. **Browse [Culture Stories](docs/Klysera/Culture-Stories.md)** - See values in action
 4. **Deep dive individual values** - Understand each value fully
 
 ### For Managers
-1. **Master [TIK Identity](./TIK-Identity.md)** - Be able to explain our values
-2. **Use [Culture Stories](./Culture-Stories.md)** - Share examples with team
+1. **Master [TIK Identity](docs/Klysera/TIK-Identity.md)** - Be able to explain our values
+2. **Use [Culture Stories](docs/Klysera/Culture-Stories.md)** - Share examples with team
 3. **Reference value definitions** - Guide team in value application
 4. **Connect to daily work** - Help team live TIK every day
 
 ### For Everyone
-1. **Internalize [TIK Identity](./TIK-Identity.md)** - Make values part of who you are
-2. **Create [Culture Stories](./Culture-Stories.md)** - Live values and share examples
+1. **Internalize [TIK Identity](docs/Klysera/TIK-Identity.md)** - Make values part of who you are
+2. **Create [Culture Stories](docs/Klysera/Culture-Stories.md)** - Live values and share examples
 3. **Study value definitions** - Understand the depth of each value
 4. **Share the manifesto** - Help others understand who we are
 
@@ -109,7 +109,7 @@ This Culture module contains the foundational elements that define who we are as
 - **[Operating Principles →](/Operating-Principles/Overview.md)** - How we work
 - **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
 - **[Leadership Overview →](/Leadership/Overview.md)** - Cultural leadership
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

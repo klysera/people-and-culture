@@ -1,4 +1,4 @@
-**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Language Guide**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera/../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🛠️ Tools](docs/Klysera/Quick-Reference-Cards.md)** | **TIK Language Guide**
 
 ---
 

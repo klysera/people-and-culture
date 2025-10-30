@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **TIK Identity**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **TIK Identity**
 
 ---
 
@@ -41,7 +41,7 @@ We don't accept "good enough" or "that's how it's done." We dig deeper, ask hard
 
 **"If it's worth doing, it's worth understanding truly."**
 
-**[📖 Learn More: Relentless Truth →](./Relentless-Truth.md)**
+**[📖 Learn More: Relentless Truth →](docs/Klysera/Relentless-Truth.md)**
 
 ### We Are Excellence Embodied
 **"Delivering exceptional quality that exceeds expectations in everything we do"**
@@ -50,7 +50,7 @@ Quality isn't our goal—it's our identity. We deliver exceptional results with 
 
 **"Excellence isn't what we deliver—it's who we are."**
 
-**[📖 Learn More: Uncompromising Excellence →](./Uncompromising-Excellence.md)**
+**[📖 Learn More: Uncompromising Excellence →](docs/Klysera/Uncompromising-Excellence.md)**
 
 ### We Are Impact Creators
 **"Creating genuine transformation for people, organizations, and the future of work"**
@@ -59,7 +59,7 @@ We measure success by the transformation we create. Every role contributes to me
 
 **"When we succeed, lives are transformed."**
 
-**[📖 Learn More: Meaningful Impact →](./Meaningful-Impact.md)**
+**[📖 Learn More: Meaningful Impact →](docs/Klysera/Meaningful-Impact.md)**
 
 ---
 
@@ -141,7 +141,7 @@ mindmap
       Create lasting change
 ```
 
-**[📖 View Complete Examples →](./Culture-Stories.md)**
+**[📖 View Complete Examples →](docs/Klysera/Culture-Stories.md)**
 
 ---
 
@@ -168,10 +168,10 @@ To translate these values into daily excellence, we have developed 7 Core Operat
 
 ## Related Resources
 
-- **[Culture Manifesto →](./Culture-Manifesto.md)** - Our inspirational story
-- **[Culture Stories →](./Culture-Stories.md)** - TIK examples in action
+- **[Culture Manifesto →](docs/Klysera/Culture-Manifesto.md)** - Our inspirational story
+- **[Culture Stories →](docs/Klysera/Culture-Stories.md)** - TIK examples in action
 - **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - Living TIK daily
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

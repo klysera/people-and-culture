@@ -1,4 +1,4 @@
-**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera/../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🚀 Implementation](docs/Klysera/Quick-Start-Guide.md)** | **Leadership Guide**
 
 ---
 

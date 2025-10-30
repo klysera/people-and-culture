@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Meaningful Impact**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Meaningful Impact**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Creating genuine transformation for people, organizations, and the future of work"**
 
-**[← Back to Values Overview](./TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
 
 ---
 

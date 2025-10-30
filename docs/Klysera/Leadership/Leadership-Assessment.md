@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Leadership](/docs/Klysera/Leadership/Overview.md)** | **Leadership Assessment**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Leadership](/docs/Klysera/Leadership/Overview.md)** | **Leadership Assessment**
 
 ---
 
@@ -375,10 +375,10 @@
 
 ## Related Resources
 
-- **[Leadership Overview →](./Overview.md)** - Core leadership principles
-- **[Leadership Development →](./Leadership-Development.md)** - Growth and training
-- **[Leadership Tools →](./Leadership-Tools.md)** - Practical resources
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[Leadership Overview →](docs/Klysera/Overview.md)** - Core leadership principles
+- **[Leadership Development →](docs/Klysera/Leadership-Development.md)** - Growth and training
+- **[Leadership Tools →](docs/Klysera/Leadership-Tools.md)** - Practical resources
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Integration Tools**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🎯 Hiring & Onboarding](docs/Klysera/Overview.md)** | **Integration Tools**
 
 ---
 
@@ -420,10 +420,10 @@ Best regards,
 
 ## Related Resources
 
-- **[Hiring Guide →](./Hiring-Guide.md)** - How we select new team members
-- **[Onboarding Journey →](./Onboarding-Journey.md)** - Your first 30 days
+- **[Hiring Guide →](docs/Klysera/Hiring-Guide.md)** - How we select new team members
+- **[Onboarding Journey →](docs/Klysera/Onboarding-Journey.md)** - Your first 30 days
 - **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Culture Hub](/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

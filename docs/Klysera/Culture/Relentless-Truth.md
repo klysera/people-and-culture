@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Relentless Truth**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Relentless Truth**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Seeking the objectively best way to solve problems through experimentation and first principles thinking"**
 
-**[← Back to Values Overview](./TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
 
 ---
 

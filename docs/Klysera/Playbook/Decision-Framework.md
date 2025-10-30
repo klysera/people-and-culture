@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Decision Framework**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[📜 Playbook](docs/Klysera/Overview.md)** | **Decision Framework**
 
 ---
 
@@ -63,10 +63,10 @@ For any significant decision, ask:
 ## Related Resources
 
 - **[Complete Decision Framework →](/Operating-Principles/Tools/Decision-Framework.md)** - Detailed guidance and tools
-- **[Communication Guide →](./Communication-Guide.md)** - How to communicate decisions
-- **[Meeting Culture →](./Meeting-Culture.md)** - Group decision processes
+- **[Communication Guide →](docs/Klysera/Communication-Guide.md)** - How to communicate decisions
+- **[Meeting Culture →](docs/Klysera/Meeting-Culture.md)** - Group decision processes
 - **[Leadership Tools →](/Leadership/Leadership-Tools.md)** - Leadership decision support
-- **[← Back to Playbook Overview](./Overview.md)**
+- **[← Back to Playbook Overview](docs/Klysera/Overview.md)**
 
 ---
 

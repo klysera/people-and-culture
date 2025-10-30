@@ -1,4 +1,4 @@
-**[Home](./#/)** | **[Navigation](./#/)** | **[File Structure](./FILE-STRUCTURE.md)** | **Culture Hub**
+**[Home](#/)** | **[Navigation](#/)** | **[File Structure](docs/Klysera/FILE-STRUCTURE.md)** | **Culture Hub**
 
 ---
 
@@ -11,42 +11,42 @@
 ## Quick Navigation
 
 ### Culture Foundation
-- **[Culture Overview](./Culture/Overview.md)** - Complete culture module guide
-- **[Culture Manifesto](./Culture/Culture-Manifesto.md)** - Who we are: Story & emotion
-- **[TIK Identity](./Culture/TIK-Identity.md)** - Our values and cultural DNA
-- **[Culture Stories](./Culture/Culture-Stories.md)** - Inspiring examples and narratives
+- **[Culture Overview](docs/Klysera/Culture/Overview.md)** - Complete culture module guide
+- **[Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)** - Who we are: Story & emotion
+- **[TIK Identity](docs/Klysera/Culture/TIK-Identity.md)** - Our values and cultural DNA
+- **[Culture Stories](docs/Klysera/Culture/Culture-Stories.md)** - Inspiring examples and narratives
 
 ### Daily Operations
-- **[Playbook Overview](./Playbook/Overview.md)** - Daily operations framework
-- **[Communication Guide](./Playbook/Communication-Guide.md)** - How we communicate
-- **[Meeting Culture](./Playbook/Meeting-Culture.md)** - How we meet effectively
-- **[Decision Framework](./Playbook/Decision-Framework.md)** - How we make decisions
-- **[Daily Operations](./Playbook/Daily-Operations.md)** - Our work rhythms
-- **[Policies & Guidelines](./Playbook/Policies-Guidelines.md)** - Standards and requirements
+- **[Playbook Overview](docs/Klysera/Playbook/Overview.md)** - Daily operations framework
+- **[Communication Guide](docs/Klysera/Playbook/Communication-Guide.md)** - How we communicate
+- **[Meeting Culture](docs/Klysera/Playbook/Meeting-Culture.md)** - How we meet effectively
+- **[Decision Framework](docs/Klysera/Playbook/Decision-Framework.md)** - How we make decisions
+- **[Daily Operations](docs/Klysera/Playbook/Daily-Operations.md)** - Our work rhythms
+- **[Policies & Guidelines](docs/Klysera/Playbook/Policies-Guidelines.md)** - Standards and requirements
 
 ### Leadership Excellence
-- **[Leadership Overview](./Leadership/Overview.md)** - Leadership principles
-- **[Leadership Development](./Leadership/Leadership-Development.md)** - Growing leaders
-- **[Leadership Tools](./Leadership/Leadership-Tools.md)** - Practical resources
-- **[Leadership Assessment](./Leadership/Leadership-Assessment.md)** - Performance evaluation
+- **[Leadership Overview](docs/Klysera/Leadership/Overview.md)** - Leadership principles
+- **[Leadership Development](docs/Klysera/Leadership/Leadership-Development.md)** - Growing leaders
+- **[Leadership Tools](docs/Klysera/Leadership/Leadership-Tools.md)** - Practical resources
+- **[Leadership Assessment](docs/Klysera/Leadership/Leadership-Assessment.md)** - Performance evaluation
 
 ### Hiring & Onboarding
-- **[Hiring & Onboarding Overview](./Hiring-Onboarding/Overview.md)** - 30-day integration with TIK certification
-- **[Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md)** - Cultural hiring approach
-- **[Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)** - First 30 days
-- **[TIK Certification Program](./Hiring-Onboarding/TIK-Certification-Program.md)** - Cultural validation system
-- **[Certification Tracking](./Hiring-Onboarding/Certification-Tracking-Template.md)** - Progress monitoring
-- **[Integration Tools](./Hiring-Onboarding/Integration-Tools.md)** - Resources and checklists
+- **[Hiring & Onboarding Overview](docs/Klysera/Hiring-Onboarding/Overview.md)** - 30-day integration with TIK certification
+- **[Hiring Guide](docs/Klysera/Hiring-Onboarding/Hiring-Guide.md)** - Cultural hiring approach
+- **[Onboarding Journey](docs/Klysera/Hiring-Onboarding/Onboarding-Journey.md)** - First 30 days
+- **[TIK Certification Program](docs/Klysera/Hiring-Onboarding/TIK-Certification-Program.md)** - Cultural validation system
+- **[Certification Tracking](docs/Klysera/Hiring-Onboarding/Certification-Tracking-Template.md)** - Progress monitoring
+- **[Integration Tools](docs/Klysera/Hiring-Onboarding/Integration-Tools.md)** - Resources and checklists
 
 ### Recognition & Rituals
-- **[Recognition & Rituals Overview](./Recognition-Rituals/Overview.md)** - Complete module guide
-- **[Recognition Framework](./Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
-- **[Special Programs](./Recognition-Rituals/Special-Programs.md)** - Awards and celebrations
+- **[Recognition & Rituals Overview](docs/Klysera/Recognition-Rituals/Overview.md)** - Complete module guide
+- **[Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
+- **[Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
+- **[Special Programs](docs/Klysera/Recognition-Rituals/Special-Programs.md)** - Awards and celebrations
 
 ### Operational Readiness
-- **[2-Month Operational Roadmap](./Roadmap/2-Month-Operational-Roadmap.md)** - Critical: Ready for incoming employees
-- **[Current Week Actions](./Roadmap/Overview.md)** - Your immediate priorities and tasks
+- **[2-Month Operational Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)** - Critical: Ready for incoming employees
+- **[Current Week Actions](docs/Klysera/Roadmap/Overview.md)** - Your immediate priorities and tasks
 
 ### Long-term Strategic Plans
 *These can wait until operational foundation is complete:*
@@ -61,24 +61,24 @@
 ## Quick Start Guides
 
 ### For New Team Members
-1. Start with [Culture Overview](./Culture/Overview.md)
-2. Read [Culture Manifesto](./Culture/Culture-Manifesto.md)
-3. Study [TIK Identity](./Culture/TIK-Identity.md)
-4. Follow [Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)
-5. Practice [Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)
+1. Start with [Culture Overview](docs/Klysera/Culture/Overview.md)
+2. Read [Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)
+3. Study [TIK Identity](docs/Klysera/Culture/TIK-Identity.md)
+4. Follow [Onboarding Journey](docs/Klysera/Hiring-Onboarding/Onboarding-Journey.md)
+5. Practice [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)
 
 ### For Managers
-1. Master [Culture Overview](./Culture/Overview.md)
-2. Study [Leadership Overview](./Leadership/Overview.md)
-3. Use [Playbook Overview](./Playbook/Overview.md)
-4. Implement [Recognition & Rituals Overview](./Recognition-Rituals/Overview.md)
-5. Reference [Decision Framework](./Operating-Principles/Tools/Decision-Framework.md)
+1. Master [Culture Overview](docs/Klysera/Culture/Overview.md)
+2. Study [Leadership Overview](docs/Klysera/Leadership/Overview.md)
+3. Use [Playbook Overview](docs/Klysera/Playbook/Overview.md)
+4. Implement [Recognition & Rituals Overview](docs/Klysera/Recognition-Rituals/Overview.md)
+5. Reference [Decision Framework](docs/Klysera/Operating-Principles/Tools/Decision-Framework.md)
 
 ### For Everyone
-1. Live [TIK Identity](./Culture/TIK-Identity.md) daily
-2. Follow [Communication Guide](./Playbook/Communication-Guide.md)
-3. Participate in [Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)
-4. Share [Culture Stories](./Culture/Culture-Stories.md)
+1. Live [TIK Identity](docs/Klysera/Culture/TIK-Identity.md) daily
+2. Follow [Communication Guide](docs/Klysera/Playbook/Communication-Guide.md)
+3. Participate in [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)
+4. Share [Culture Stories](docs/Klysera/Culture/Culture-Stories.md)
 
 ---
 
