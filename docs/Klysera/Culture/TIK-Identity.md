@@ -12,7 +12,7 @@
 
 ```mermaid
 graph TB
-    TIK[("This Is Klysera")] --> RT[Relentless Truth]
+    TIK((This Is Klysera)) --> RT[Relentless Truth]
     TIK --> UE[Uncompromising Excellence]
     TIK --> MI[Meaningful Impact]
 
@@ -131,13 +131,13 @@ When we see someone embodying our values:
 
 ```mermaid
 graph TB
-    Excellence[("TIK Excellence")] --> Truth[Truth Examples]
+    Excellence((TIK Excellence)) --> Truth[Truth Examples]
     Excellence --> Quality[Excellence Examples]
     Excellence --> Impact[Impact Examples]
 
     Truth --> T1[Challenge with evidence]
     Truth --> T2[Run experiments first]
-    Truth --> T3[Admit "I don't know"]
+    Truth --> T3[Admit I don't know]
     Truth --> T4[Share difficult insights]
 
     Quality --> Q1[Exceed expectations]
