@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Context Not Control**
+
+---
+
 # Context Not Control
 
 **"Empower through information and purpose."**

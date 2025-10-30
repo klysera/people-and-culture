@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **📜 Playbook**
+
+---
+
 # People & Culture Playbook Overview
 
 **Daily Operations Framework: How We Work Together**

@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Excellence with Warmth**
+
+---
+
 # Excellence with Warmth
 
 **"Deliver exceptional quality with genuine care."**

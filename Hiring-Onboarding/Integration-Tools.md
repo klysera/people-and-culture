@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview.md)** | **Integration Tools**
+
+---
+
 # Integration Tools
 
 **Resources and Checklists for Successful Onboarding**

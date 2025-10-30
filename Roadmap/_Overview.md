@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🗺️ Roadmap**
+
+---
+
 # P&C Domain Roadmap Hub
 
 **Operational Readiness for Incoming Employees**

@@ -1,6 +1,27 @@
-# Klysera People & Culture Documentation
+# 🏠 Klysera People & Culture Documentation
 
-## Documentation Structure
+**[🧭 Complete Navigation](./NAVIGATION.md)** | **[📚 Culture Hub](./Culture-Hub.md)** | **[🔍 Quick Search](#-quick-access)**
+
+---
+
+## 🚀 Quick Access
+
+### 👥 **By Role - Start Here:**
+- **[👋 New Team Members](./NAVIGATION.md#-new-team-members)** - Your onboarding guide
+- **[👨‍💼 Managers](./NAVIGATION.md#-managers)** - Leadership resources
+- **[🎯 HR/People & Culture Lead](./NAVIGATION.md#-hrpeople--culture-lead)** - Implementation roadmap
+- **[👥 Everyone](./NAVIGATION.md#-everyone)** - Daily culture resources
+
+### 📁 **By Section:**
+- **[🎭 Culture](./Culture/_Overview.md)** - Who we are
+- **[📖 Playbook](./Playbook/_Overview.md)** - How we operate
+- **[👑 Leadership](./Leadership/_Overview.md)** - Leadership excellence
+- **[🎯 Hiring & Onboarding](./Hiring-Onboarding/_Overview.md)** - Join our team
+- **[🏆 Recognition & Rituals](./Recognition-Rituals/_Overview.md)** - Celebrate success
+
+---
+
+## 📋 Documentation Structure
 
 This documentation has been restructured into modular, focused files organized in clear folders with excellent navigation and cross-linking.
 
@@ -43,14 +64,27 @@ People & Culture/
 │   ├── 📄 Daily-Rituals.md
 │   └── 📄 Special-Programs.md
 │
-└── 📁 Roadmap/ (Implementation guides)
-    ├── 📄 _Overview.md
-    └── 📄 2-Month-Operational-Roadmap.md (😨 URGENT)
+├── 📁 Operating-Principles/ (How we work principles)
+├── 📁 Recognition-Rituals/ (Keeping culture alive)
+├── 📁 Roadmap/ (Implementation guides)
+└── 📁 Research/ (Industry insights)
 ```
 
+---
 
+## 🧭 Navigation Features
 
-## How to Use This Documentation
+### 🔗 **Breadcrumb Navigation**
+Every page includes breadcrumb navigation at the top for easy movement between sections.
+
+### 📍 **Quick Reference**
+- **[🧭 NAVIGATION.md](./NAVIGATION.md)** - Complete site map with all links
+- **[📚 Culture-Hub.md](./Culture-Hub.md)** - Main content navigation hub
+- **Overview pages** - Each section has an `_Overview.md` for quick orientation
+
+---
+
+## 🚀 How to Use This Documentation
 
 ### Getting Started
 
@@ -104,9 +138,19 @@ People & Culture/
 - **Buddy System:** Peer support and navigation help
 - **Culture Champions:** Advanced culture questions
  
-**Start at the [Culture Hub](./Culture-Hub.md) and explore the resources that matter most to your role and needs.**
+**Start with your role-specific guide or use the [🧭 Complete Navigation](./NAVIGATION.md) to explore all resources.**
 
 ---
 
-_Documentation Structure v1.0 | October 2025_
-_Modular Design for Maximum Usability and Maintenance_
+## 🔄 Documentation Updates
+
+This documentation includes:
+- ✅ **Breadcrumb navigation** on every page
+- ✅ **Complete navigation index** with role-based entry points
+- ✅ **Cross-linked sections** for easy movement between topics
+- ✅ **Mobile-friendly markdown** optimized for GitHub Pages
+
+---
+
+_Documentation v2.0 | October 2025_
+_Enhanced Navigation System for Maximum Usability_

@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Policies & Guidelines**
+
+---
+
 # Policies & Guidelines
 
 **Standards and Requirements for Working at Klysera**

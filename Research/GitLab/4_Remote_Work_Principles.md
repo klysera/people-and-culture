@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔬 Research](../README.md)** | **[📊 GitLab](./README.md)** | **Remote Work Principles**
+
+---
+
 # GitLab Remote Work Principles
 
 ## Core Remote Philosophy

@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🔧 Operating Principles**
+
+---
+
 # Klysera Operating Principles - Overview
 
 **How We Translate Klysera Values into Daily Excellence**

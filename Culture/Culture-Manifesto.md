@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./_Overview.md)** | **Culture Manifesto**
+
+---
+
 # Klysera Culture Manifesto
 
 **Who We Are: The Story That Drives Us**

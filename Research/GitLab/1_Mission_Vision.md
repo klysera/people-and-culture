@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔬 Research](../README.md)** | **[📊 GitLab](./README.md)** | **Mission & Vision**
+
+---
+
 # GitLab Mission and Vision
 
 ## Mission

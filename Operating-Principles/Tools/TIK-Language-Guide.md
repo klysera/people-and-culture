@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Language Guide**
+
+---
+
 # TIK Language Guide
 
 ## The Power of TIK Language

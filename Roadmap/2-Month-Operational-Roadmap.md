@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🗺️ Roadmap](./_Overview.md)** | **2-Month Operational Roadmap**
+
+---
+
 # 2-Month P&C Operational Readiness Roadmap
 
 **Building Essential Infrastructure to Serve Incoming Employees**

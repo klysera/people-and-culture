@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🏆 Recognition & Rituals**
+
+---
+
 # Recognition & Rituals Overview
 
 **Keeping TIK Culture Alive Through Celebration and Practice**

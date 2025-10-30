@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview.md)** | **Hiring Guide**
+
+---
+
 # Hiring Guide
 
 **Cultural Alignment from Day One**

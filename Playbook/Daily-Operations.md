@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Daily Operations**
+
+---
+
 # Daily Operations
 
 **Our TIK Rhythms and Performance Standards**

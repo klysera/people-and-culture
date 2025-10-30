@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **🚀 Implementation**
+
+---
+
 # TIK Quick Start Guide
 
 ## Week 1: Foundation Launch

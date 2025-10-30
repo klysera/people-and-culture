@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Communication Guide**
+
+---
+
 # Communication Guide
 
 **How We Connect with Truth, Excellence, and Impact**

@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[📊 Measurement](./Culture-Metrics.md)** | **Culture Metrics**
+
+---
+
 # TIK Culture Success Metrics for Klysera
 
 ## TIK Measurement Philosophy: Driving the AI Talent Flywheel

@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Experimental Mindset**
+
+---
+
 # Experimental Mindset
 
 **"Test everything. Measure results. Pivot on evidence."**

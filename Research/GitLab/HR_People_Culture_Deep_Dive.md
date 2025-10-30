@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔬 Research](../README.md)** | **[📊 GitLab](./README.md)** | **HR Deep Dive**
+
+---
+
 # GitLab HR & People Culture Deep Dive: What Makes Them Successful
 
 ## 🎯 Executive Summary: HR Excellence at GitLab

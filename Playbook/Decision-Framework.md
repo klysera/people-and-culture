@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Decision Framework**
+
+---
+
 # Decision Framework
 
 **How We Make TIK-Aligned Decisions**

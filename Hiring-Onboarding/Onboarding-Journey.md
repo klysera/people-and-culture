@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview.md)** | **Onboarding Journey**
+
+---
+
 # Onboarding Journey
 
 **Your First 30 Days at Klysera**

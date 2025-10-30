@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **🛠️ Tools**
+
+---
+
 # Operating Principles - Quick Reference Cards
 
 **Daily Decision Aids for the Klysera 7**

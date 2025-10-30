@@ -1,3 +1,7 @@
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../NAVIGATION.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
+
+---
+
 # Leadership Responsibilities for TIK Culture
 
 ## Klysera Leadership Hierarchy & TIK Ownership

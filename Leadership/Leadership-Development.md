@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[👑 Leadership](./_Overview.md)** | **Leadership Development**
+
+---
+
 # Leadership Development
 
 **Growing Excellent Leaders at Klysera**

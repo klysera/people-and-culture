@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🏆 Recognition & Rituals](./_Overview.md)** | **Daily Rituals**
+
+---
+
 # Daily Rituals
 
 **Living TIK Culture Every Day**

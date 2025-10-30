@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🎭 Culture**
+
+---
+
 # Culture Overview
 
 **Who We Are: The Foundation of TIK Culture**

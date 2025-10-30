@@ -1,3 +1,7 @@
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../NAVIGATION.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **👑 Leadership**
+
+---
+
 # Leadership Overview
 
 **How Leaders Enable TIK Excellence**
