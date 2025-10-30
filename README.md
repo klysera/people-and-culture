@@ -37,11 +37,11 @@
 
 ## 👨‍💼 Managers
 
-**Start Here → [Leadership Overview](./Leadership/_Overview)**
+**Start Here → [Leadership Overview](./Leadership/_Overview.md)**
 
-1. **[👑 Leadership Overview](./Leadership/_Overview)** - Leadership principles
+1. **[👑 Leadership Overview](./Leadership/_Overview.md)** - Leadership principles
 2. **[🛠️ Leadership Tools](./Leadership/Leadership-Tools.md)** - Practical resources
-3. **[📖 Playbook Overview](./Playbook/_Overview)** - Operations framework
+3. **[📖 Playbook Overview](./Playbook/_Overview.md)** - Operations framework
 4. **[🏆 Recognition Framework](./Recognition-Rituals/Recognition-Framework.md)** - Celebrate excellence
 5. **[⚖️ Decision Framework](./Playbook/Decision-Framework.md)** - Make better decisions
 
@@ -52,10 +52,10 @@
 **Start Here → [😨 2-Month Roadmap](./Roadmap/2-Month-Operational-Roadmap.md)** *(URGENT)*
 
 1. **[😨 2-Month Operational Roadmap](./Roadmap/2-Month-Operational-Roadmap.md)** - URGENT: Ready for employees
-2. **[📋 This Week's Actions](./Roadmap/_Overview)** - Immediate tasks
+2. **[📋 This Week's Actions](./Roadmap/_Overview.md)** - Immediate tasks
 3. **[🎯 Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md)** - Cultural hiring (✅ Complete)
 4. **[🎓 TIK Certification](./Hiring-Onboarding/TIK-Certification-Program.md)** - Assessment system (✅ Complete)
-5. **[🎭 Culture Foundation](./Culture/_Overview)** - Values and principles (✅ Complete)
+5. **[🎭 Culture Foundation](./Culture/_Overview.md)** - Values and principles (✅ Complete)
 
 ---
 
@@ -73,7 +73,7 @@
 ## 📁 Complete Site Map
 
 ### 🎭 Culture
-- **[📋 Culture Overview](./Culture/_Overview)**
+- **[📋 Culture Overview](./Culture/_Overview.md)**
 - **[🎭 Culture Manifesto](./Culture/Culture-Manifesto.md)**
 - **[🎯 TIK Identity](./Culture/TIK-Identity.md)**
 - **[📚 Culture Stories](./Culture/Culture-Stories.md)**
@@ -82,7 +82,7 @@
 - **[⭐ Uncompromising Excellence](./Culture/Uncompromising-Excellence.md)**
 
 ### 📖 Playbook
-- **[📋 Playbook Overview](./Playbook/_Overview)**
+- **[📋 Playbook Overview](./Playbook/_Overview.md)**
 - **[💬 Communication Guide](./Playbook/Communication-Guide.md)**
 - **[🤝 Meeting Culture](./Playbook/Meeting-Culture.md)**
 - **[⚖️ Decision Framework](./Playbook/Decision-Framework.md)**
@@ -90,13 +90,13 @@
 - **[📜 Policies & Guidelines](./Playbook/Policies-Guidelines.md)**
 
 ### 👑 Leadership
-- **[📋 Leadership Overview](./Leadership/_Overview)**
+- **[📋 Leadership Overview](./Leadership/_Overview.md)**
 - **[📈 Leadership Development](./Leadership/Leadership-Development.md)**
 - **[🛠️ Leadership Tools](./Leadership/Leadership-Tools.md)**
 - **[📊 Leadership Assessment](./Leadership/Leadership-Assessment.md)**
 
 ### 🎯 Hiring & Onboarding
-- **[📋 Hiring & Onboarding Overview](./Hiring-Onboarding/_Overview)**
+- **[📋 Hiring & Onboarding Overview](./Hiring-Onboarding/_Overview.md)**
 - **[🎯 Hiring Guide](./Hiring-Onboarding/Hiring-Guide.md)**
 - **[🛤️ Onboarding Journey](./Hiring-Onboarding/Onboarding-Journey.md)**
 - **[🛠️ Integration Tools](./Hiring-Onboarding/Integration-Tools.md)**
@@ -104,13 +104,13 @@
 - **[📊 Certification Tracking](./Hiring-Onboarding/Certification-Tracking-Template.md)**
 
 ### 🏆 Recognition & Rituals
-- **[📋 Recognition Overview](./Recognition-Rituals/_Overview)**
+- **[📋 Recognition Overview](./Recognition-Rituals/_Overview.md)**
 - **[🏆 Recognition Framework](./Recognition-Rituals/Recognition-Framework.md)**
 - **[📅 Daily Rituals](./Recognition-Rituals/Daily-Rituals.md)**
 - **[🎉 Special Programs](./Recognition-Rituals/Special-Programs.md)**
 
 ### 🔧 Operating Principles
-- **[📋 Operating Principles Overview](./Operating-Principles/_Overview)**
+- **[📋 Operating Principles Overview](./Operating-Principles/_Overview.md)**
 - **Principles:**
   - **[🧪 01 - Experimental Mindset](./Operating-Principles/Principles/01-Experimental-Mindset.md)**
   - **[🔍 02 - Truth Over Comfort](./Operating-Principles/Principles/02-Truth-Over-Comfort.md)**
@@ -131,7 +131,7 @@
   - **[📊 Culture Metrics](./Operating-Principles/Measurement/Culture-Metrics.md)**
 
 ### 🗺️ Roadmap
-- **[📋 Roadmap Overview](./Roadmap/_Overview)**
+- **[📋 Roadmap Overview](./Roadmap/_Overview.md)**
 - **[😨 2-Month Operational Roadmap](./Roadmap/2-Month-Operational-Roadmap.md)** *(URGENT)*
 
 ### 🔬 Research

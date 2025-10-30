@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **Daily Rituals Framework**
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **Daily Rituals Framework**
 
 ---
 
@@ -78,7 +78,7 @@ This comprehensive resource includes:
 - **[Complete Daily Rituals Guide →](../../Recognition-Rituals/Daily-Rituals.md)** - Comprehensive practices and tools
 - **[Recognition Framework →](../../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
 - **[TIK Language Guide →](./TIK-Language-Guide.md)** - Speaking TIK fluently
-- **[Operating Principles Overview →](../_Overview)** - Our 7 core principles
+- **[Operating Principles Overview →](../_Overview.md)** - Our 7 core principles
 
 ---
 

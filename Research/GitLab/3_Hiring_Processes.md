@@ -24,19 +24,25 @@
 - Conducted by recruiter or hiring manager
 - Focus on:
   - Cultural fit assessment
-  - Remote work experience
+  - Remote work experience and capability
   - Basic role requirements
   - Candidate questions
   - Process explanation
+- **2025 Update**: Recruiters emphasize GitLab's handbook knowledge and values understanding during initial screening
+- **Average timeline**: 31.84 days from application to hire (based on recent candidate data)
+- **Source**: [GitLab Interview Process 2025](https://www.glassdoor.com/Interview/GitLab-Interview-Questions-E1296544.htm)
 
 ### 3. Technical Assessment
 - Role-specific evaluation
 - Options include:
-  - Take-home projects
-  - Live coding sessions
-  - Portfolio review
-  - Case studies
-  - Written assessments
+  - **Take-home projects**: Scenario-based questions, SQL, and tools like Tableau
+  - **Live coding sessions**: With Google access permitted and collaborative problem-solving
+  - **Code review exercises**: Assigned merge requests for review and discussion
+  - **Portfolio review**: For design and product roles
+  - **Case studies**: Business and strategic scenarios
+  - **Written assessments**: Communication and analytical skills
+- **Unique approach**: "We love when candidates have reviewed our handbook and know our values"
+- **Sources**: [GitLab Interview Experience](https://about.gitlab.com/blog/what-its-like-to-interview-at-gitlab/), [Range Blog Interview Analysis](https://www.range.co/blog/hiring-and-onboarding-remote-teammates)
 
 ### 4. Team Interviews (Multiple rounds)
 - **Hiring Manager Interview** (60 minutes)
@@ -72,6 +78,13 @@
 - Collaborative documents for assessments
 - Asynchronous options when needed
 - Clear technical requirements communicated
+
+### Remote Work Assessment Criteria
+- **Written communication excellence**: "Since GitLab is remote-only company, most interactions happen in written form"
+- **Collaborative project evaluation**: Include projects that allow candidates to work on their own schedule
+- **Virtual facilitation skills**: Ability to foster open communication and ensure accessibility to resources
+- **Self-management capability**: Demonstrated ability to work independently across time zones
+- **Source**: [GitLab Chief People Officer Insights](https://www.range.co/blog/hiring-and-onboarding-remote-teammates)
 
 ### Candidate Experience
 - Detailed process documentation shared upfront
@@ -112,11 +125,14 @@
 ## Onboarding Process
 
 ### Pre-boarding (Before Day 1)
+- **Minimum 4 business days before start**: People Experience Associates create onboarding issues
 - Equipment shipped globally
 - Access to handbook
 - Welcome package sent
 - Manager introduction call
 - IT setup support
+- **Day 1 access**: All new hires receive invitational access to GitLab email, accounts, and work-related tools
+- **Source**: [GitLab Onboarding Processes](https://about.staging.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/)
 
 ### Week 1: Orientation
 - Company overview sessions

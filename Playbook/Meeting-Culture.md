@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview)** | **Meeting Culture**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Meeting Culture**
 
 ---
 
@@ -285,7 +285,7 @@
 - **[Communication Guide →](./Communication-Guide.md)** - How we communicate
 - **[Decision Framework →](./Decision-Framework.md)** - How we make decisions
 - **[Daily Operations →](./Daily-Operations.md)** - Our work rhythms
-- **[← Back to Playbook Overview](./_Overview)**
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

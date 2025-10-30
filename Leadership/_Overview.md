@@ -148,8 +148,8 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 ## Related Resources
 
 - **[TIK Identity →](../Culture/TIK-Identity.md)** - Our values foundation
-- **[Operating Principles →](../../Operating-Principles/_Overview)** - How we work
-- **[Playbook Overview →](../Playbook/_Overview)** - Daily operations
+- **[Operating Principles →](../../Operating-Principles/_Overview.md)** - How we work
+- **[Playbook Overview →](../Playbook/_Overview.md)** - Daily operations
 - **[← Back to Culture Hub](../Culture-Hub.md)**
 
 ---

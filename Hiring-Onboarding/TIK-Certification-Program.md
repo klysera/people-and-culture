@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview)** | **TIK Certification Program**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./_Overview.md)** | **TIK Certification Program**
 
 ---
 
@@ -400,8 +400,8 @@ Team Cultural Readiness: 82% (Strong)
 - **[Onboarding Journey →](./Onboarding-Journey.md)** - Complete 30-day journey
 - **[Integration Tools →](./Integration-Tools.md)** - Assessment templates
 - **[TIK Identity →](../Culture/TIK-Identity.md)** - Values foundation
-- **[Operating Principles →](../../Operating-Principles/_Overview)** - Principle framework
-- **[← Back to Hiring & Onboarding Overview](./_Overview)**
+- **[Operating Principles →](../../Operating-Principles/_Overview.md)** - Principle framework
+- **[← Back to Hiring & Onboarding Overview](./_Overview.md)**
 
 ---
 

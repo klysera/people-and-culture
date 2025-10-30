@@ -33,7 +33,15 @@ GitLab operates on the CREDIT values framework:
 - Inclusive language and behavior
 - Seeking diverse perspectives
 - Unconscious bias training
-- Team Member Resource Groups
+- **Team Member Resource Groups (TMRGs)**:
+  - Women at GitLab
+  - Pride (LGBTQIA+)
+  - API (Asian-Pacific Islander)
+  - Black@GitLab
+  - Global Voices
+  - Caregivers
+  - Disability & Neurodiversity
+- **Source**: [GitLab People Group Handbook](https://handbook.gitlab.com/handbook/people-group/)
 
 ### I - Iteration
 - Minimal Viable Change (MVC)
@@ -52,11 +60,13 @@ GitLab operates on the CREDIT values framework:
 ## Cultural Principles
 
 ### Remote-First Culture
-- 100% distributed workforce
-- No physical offices
+- 100% distributed workforce across 65+ countries
+- No physical offices ("all-remote" not "remote-first")
 - Asynchronous communication as default
 - Documentation-first approach
 - Global talent pool access
+- **Head of Remote role**: Pioneered with Darren Murph (2019) to formalize remote work excellence
+- **Source**: [GitLab Remote Work Leadership](https://workinvirtual.com/demystifying-gitlab-handbook-the-ultimate-guide-to-remote-work-success-through-handbook-first-culture/)
 
 ### Handbook-First Approach
 - Everything documented publicly

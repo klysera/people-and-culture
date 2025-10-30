@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview)** | **Decision Framework**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Decision Framework**
 
 ---
 
@@ -66,7 +66,7 @@ For any significant decision, ask:
 - **[Communication Guide →](./Communication-Guide.md)** - How to communicate decisions
 - **[Meeting Culture →](./Meeting-Culture.md)** - Group decision processes
 - **[Leadership Tools →](../Leadership/Leadership-Tools.md)** - Leadership decision support
-- **[← Back to Playbook Overview](./_Overview)**
+- **[← Back to Playbook Overview](./_Overview.md)**
 
 ---
 

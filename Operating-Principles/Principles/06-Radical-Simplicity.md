@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Radical Simplicity**
+**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../_Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Radical Simplicity**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Eliminate complexity that doesn't add value."**
 
-**[← Back to Operating Principles Overview](../_Overview)**
+**[← Back to Operating Principles Overview](../_Overview.md)**
 
 ---
 
