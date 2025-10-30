@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./_Overview.md)** | **Policies & Guidelines**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Policies & Guidelines**
 
 ---
 
@@ -312,8 +312,8 @@
 
 - **[Communication Guide →](./Communication-Guide.md)** - Professional communication standards
 - **[Meeting Culture →](./Meeting-Culture.md)** - Meeting professionalism
-- **[Leadership Overview →](../Leadership/_Overview.md)** - Leadership responsibilities
-- **[← Back to Playbook Overview](./_Overview.md)**
+- **[Leadership Overview →](../Leadership/Overview.md)** - Leadership responsibilities
+- **[← Back to Playbook Overview](./Overview.md)**
 
 ---
 

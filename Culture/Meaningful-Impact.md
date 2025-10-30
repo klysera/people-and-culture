@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./_Overview.md)** | **Meaningful Impact**
+**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./Overview.md)** | **Meaningful Impact**
 
 ---
 
@@ -127,7 +127,7 @@ When all three work together, we find the best approach, execute it perfectly, a
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](../Operating-Principles/_Overview.md):**
+**For practical implementation of this value, see [Operating Principles](../Operating-Principles/Overview.md):**
 - **Context Not Control** - How to empower through information and purpose
 - **Results Over Motion** - How to focus on transformation that matters
 - **Learn Fast, Apply Faster** - How to turn insights into immediate impact

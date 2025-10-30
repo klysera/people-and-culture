@@ -159,3 +159,9 @@ GitLab operates on the CREDIT values framework:
 - Clear documentation
 - Regular check-ins
 - Self-paced learning
+
+**Sources:**
+- [GitLab Values Handbook](https://handbook.gitlab.com/handbook/values/)
+- [GitLab Company Culture](https://handbook.gitlab.com/handbook/company/culture/)
+- [GitLab People Group Handbook](https://handbook.gitlab.com/handbook/people-group/)
+- [GitLab All-Remote Culture Guide](https://handbook.gitlab.com/handbook/company/culture/all-remote/building-culture/)
