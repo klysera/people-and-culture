@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./Overview.md)** | **Relentless Truth**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Relentless Truth**
 
 ---
 
@@ -89,7 +89,7 @@ When all three work together, we discover the best approach, execute it perfectl
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](../Operating-Principles/Overview.md):**
+**For practical implementation of this value, see [Operating Principles](/Operating-Principles/Overview.md):**
 - **Experimental Mindset** - How to structure work as experiments
 - **Truth Over Comfort** - How to communicate difficult truths
 - **Learn Fast, Apply Faster** - How to turn insights into immediate improvement

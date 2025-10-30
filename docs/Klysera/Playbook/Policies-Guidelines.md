@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Policies & Guidelines**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Policies & Guidelines**
 
 ---
 
@@ -312,7 +312,7 @@
 
 - **[Communication Guide →](./Communication-Guide.md)** - Professional communication standards
 - **[Meeting Culture →](./Meeting-Culture.md)** - Meeting professionalism
-- **[Leadership Overview →](../Leadership/Overview.md)** - Leadership responsibilities
+- **[Leadership Overview →](/Leadership/Overview.md)** - Leadership responsibilities
 - **[← Back to Playbook Overview](./Overview.md)**
 
 ---

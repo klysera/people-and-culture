@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🏆 Recognition & Rituals](./Overview.md)** | **Recognition Framework**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🏆 Recognition & Rituals](./Overview.md)** | **Recognition Framework**
 
 ---
 
@@ -419,8 +419,8 @@ Outstanding development and enablement of others
 
 - **[Daily Rituals →](./Daily-Rituals.md)** - Living culture through daily practices
 - **[Special Programs →](./Special-Programs.md)** - Annual awards and celebrations
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

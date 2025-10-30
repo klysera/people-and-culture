@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Integration Tools**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Integration Tools**
 
 ---
 
@@ -188,10 +188,10 @@
 ### New Hire Resource Library
 
 **Essential Documents**
-- [Culture Manifesto](../Culture/Culture-Manifesto.md)
-- [TIK Identity](../Culture/TIK-Identity.md)
-- [Operating Principles Overview](../../Operating-Principles/Overview.md)
-- [Playbook Overview](../Playbook/Overview.md)
+- [Culture Manifesto](/Culture/Culture-Manifesto.md)
+- [TIK Identity](/Culture/TIK-Identity.md)
+- [Operating Principles Overview](/../Operating-Principles/Overview.md)
+- [Playbook Overview](/Playbook/Overview.md)
 
 **Learning Materials**
 - Company history and timeline
@@ -200,10 +200,10 @@
 - Industry insights and market position
 
 **Process Guides**
-- [Communication Guide](../Playbook/Communication-Guide.md)
-- [Meeting Culture](../Playbook/Meeting-Culture.md)
-- [Decision Framework](../Playbook/Decision-Framework.md)
-- [Daily Operations](../Playbook/Daily-Operations.md)
+- [Communication Guide](/Playbook/Communication-Guide.md)
+- [Meeting Culture](/Playbook/Meeting-Culture.md)
+- [Decision Framework](/Playbook/Decision-Framework.md)
+- [Daily Operations](/Playbook/Daily-Operations.md)
 
 ### Remote Technology Setup Guide
 
@@ -422,8 +422,8 @@ Best regards,
 
 - **[Hiring Guide →](./Hiring-Guide.md)** - How we select new team members
 - **[Onboarding Journey →](./Onboarding-Journey.md)** - Your first 30 days
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

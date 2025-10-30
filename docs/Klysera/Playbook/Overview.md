@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **📜 Playbook**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **📜 Playbook**
 
 ---
 
@@ -75,10 +75,10 @@ This playbook contains the practical frameworks, policies, and processes that en
 
 ## Related Resources
 
-- **[Operating Principles →](../../Operating-Principles/Overview.md)** - Our 7 core principles
-- **[Leadership Overview →](../Leadership/Overview.md)** - Leadership guidance
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[Operating Principles →](/../Operating-Principles/Overview.md)** - Our 7 core principles
+- **[Leadership Overview →](/Leadership/Overview.md)** - Leadership guidance
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

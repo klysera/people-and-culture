@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Experimental Mindset**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🧪 Principles](/Tools/Quick-Reference-Cards.md)** | **Experimental Mindset**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Test everything. Measure results. Pivot on evidence."**
 
-**[← Back to Operating Principles Overview](../Overview.md)**
+**[← Back to Operating Principles Overview](/Overview.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🏆 Recognition & Rituals**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **🏆 Recognition & Rituals**
 
 ---
 
@@ -258,10 +258,10 @@ graph TB
 
 ## Related Resources
 
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding values for recognition
-- **[Culture Stories →](../Culture/Culture-Stories.md)** - Examples to inspire recognition
-- **[Leadership Overview →](../Leadership/Overview.md)** - Leadership role in recognition
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding values for recognition
+- **[Culture Stories →](/Culture/Culture-Stories.md)** - Examples to inspire recognition
+- **[Leadership Overview →](/Leadership/Overview.md)** - Leadership role in recognition
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Decision Framework**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Decision Framework**
 
 ---
 
@@ -12,7 +12,7 @@
 
 For the complete TIK Decision Framework with detailed guidance, templates, and examples:
 
-**[📖 View Complete Decision Framework →](../Operating-Principles/Tools/Decision-Framework.md)**
+**[📖 View Complete Decision Framework →](/Operating-Principles/Tools/Decision-Framework.md)**
 
 This comprehensive resource includes:
 - The master "Is This TIK?" framework
@@ -62,10 +62,10 @@ For any significant decision, ask:
 
 ## Related Resources
 
-- **[Complete Decision Framework →](../Operating-Principles/Tools/Decision-Framework.md)** - Detailed guidance and tools
+- **[Complete Decision Framework →](/Operating-Principles/Tools/Decision-Framework.md)** - Detailed guidance and tools
 - **[Communication Guide →](./Communication-Guide.md)** - How to communicate decisions
 - **[Meeting Culture →](./Meeting-Culture.md)** - Group decision processes
-- **[Leadership Tools →](../Leadership/Leadership-Tools.md)** - Leadership decision support
+- **[Leadership Tools →](/Leadership/Leadership-Tools.md)** - Leadership decision support
 - **[← Back to Playbook Overview](./Overview.md)**
 
 ---

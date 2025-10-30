@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Onboarding Journey**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Onboarding Journey**
 
 ---
 
@@ -431,8 +431,8 @@
 
 - **[Hiring Guide →](./Hiring-Guide.md)** - How we select new team members
 - **[Integration Tools →](./Integration-Tools.md)** - Checklists and resources
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **🚀 Implementation**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **🚀 Implementation**
 
 ---
 
@@ -290,4 +290,4 @@ Week 3: Live TIK
 
 ---
 
-*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Leadership Guide →](../Leadership/Leadership-Responsibilities.md)*
+*[← Back to Values Overview](/../Culture/TIK-Identity.md) | [View Leadership Guide →](/Leadership/Leadership-Responsibilities.md)*

@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Decision Framework**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **TIK Decision Framework**
 
 ---
 
@@ -344,4 +344,4 @@ When you must decide immediately:
 
 ---
 
-*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Daily Rituals →](../Shared-Frameworks.md#daily-rituals-framework)*
+*[← Back to Values Overview](/../Culture/TIK-Identity.md) | [View Daily Rituals →](/Shared-Frameworks.md#daily-rituals-framework)*

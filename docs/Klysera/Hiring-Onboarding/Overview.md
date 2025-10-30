@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🎯 Hiring & Onboarding**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **🎯 Hiring & Onboarding**
 
 ---
 
@@ -194,10 +194,10 @@ graph LR
 
 ## Related Resources
 
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values for assessment
-- **[Leadership Overview →](../Leadership/Overview.md)** - Manager responsibilities
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - Celebrating integration success
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values for assessment
+- **[Leadership Overview →](/Leadership/Overview.md)** - Manager responsibilities
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - Celebrating integration success
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

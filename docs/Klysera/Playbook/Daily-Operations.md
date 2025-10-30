@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Daily Operations**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Daily Operations**
 
 ---
 
@@ -318,7 +318,7 @@ graph LR
 
 - **[Communication Guide →](./Communication-Guide.md)** - How we communicate
 - **[Meeting Culture →](./Meeting-Culture.md)** - How we collaborate
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
 - **[← Back to Playbook Overview](./Overview.md)**
 
 ---

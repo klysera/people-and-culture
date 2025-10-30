@@ -19,6 +19,7 @@
     .sidebar {
       background-color: #f8f9fa;
       border-right: 1px solid #e9ecef;
+      padding-left: 15px;
     }
 
     .sidebar > h1 a {
@@ -47,6 +48,24 @@
     /* Content area styling */
     .content {
       padding-left: 20px;
+    }
+
+    /* Fix navbar positioning */
+    .app-nav {
+      position: fixed;
+      right: 20px;
+      top: 20px;
+      z-index: 1000;
+    }
+
+    /* Cover page adjustments */
+    .cover.show {
+      padding-bottom: 0;
+    }
+
+    .cover .cover-main {
+      text-align: center;
+      margin-top: 10vh;
     }
 
     /* Navigation breadcrumbs */
@@ -137,6 +156,7 @@
       loadSidebar: true,
       loadNavbar: true,
       coverpage: true,
+      onlyCover: false,
       autoHeader: true,
       subMaxLevel: 2,
       maxLevel: 3,

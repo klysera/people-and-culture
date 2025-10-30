@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Communication Guide**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[📜 Playbook](./Overview.md)** | **Communication Guide**
 
 ---
 
@@ -248,7 +248,7 @@ Thank you for living TIK!
 
 - **[Meeting Culture →](./Meeting-Culture.md)** - How we meet effectively
 - **[Decision Framework →](./Decision-Framework.md)** - How we make decisions
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
 - **[← Back to Playbook Overview](./Overview.md)**
 
 ---

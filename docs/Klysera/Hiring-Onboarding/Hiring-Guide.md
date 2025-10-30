@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Hiring Guide**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🎯 Hiring & Onboarding](./Overview.md)** | **Hiring Guide**
 
 ---
 
@@ -367,8 +367,8 @@ We hire people who want to grow with us and help others grow too.
 
 - **[Onboarding Journey →](./Onboarding-Journey.md)** - First 30 days integration
 - **[Integration Tools →](./Integration-Tools.md)** - Resources and checklists
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Understanding our values
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

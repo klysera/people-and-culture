@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[👑 Leadership](./Overview.md)** | **Leadership Development**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Leadership](/docs/Klysera/Leadership/Overview.md)** | **Leadership Development**
 
 ---
 
@@ -350,7 +350,7 @@ mindmap
 - **[Leadership Overview →](./Overview.md)** - Core leadership principles
 - **[Leadership Tools →](./Leadership-Tools.md)** - Practical resources
 - **[Leadership Assessment →](./Leadership-Assessment.md)** - Performance evaluation
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

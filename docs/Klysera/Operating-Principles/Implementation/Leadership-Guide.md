@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🚀 Implementation](./Quick-Start-Guide.md)** | **Leadership Guide**
 
 ---
 
@@ -434,4 +434,4 @@ graph TD
 
 ---
 
-*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Implementation Guide →](../Implementation/Quick-Start-Guide.md)*
+*[← Back to Values Overview](/../Culture/TIK-Identity.md) | [View Implementation Guide →](/Implementation/Quick-Start-Guide.md)*

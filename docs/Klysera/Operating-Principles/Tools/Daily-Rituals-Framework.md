@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **Daily Rituals Framework**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🛠️ Tools](./Quick-Reference-Cards.md)** | **Daily Rituals Framework**
 
 ---
 
@@ -12,7 +12,7 @@
 
 For comprehensive guidance on daily rituals that bring TIK culture to life:
 
-**[📖 View Complete Daily Rituals Guide →](../../Recognition-Rituals/Daily-Rituals.md)**
+**[📖 View Complete Daily Rituals Guide →](/../Recognition-Rituals/Daily-Rituals.md)**
 
 This comprehensive resource includes:
 - Morning TIK intention setting
@@ -75,10 +75,10 @@ This comprehensive resource includes:
 
 ## Related Resources
 
-- **[Complete Daily Rituals Guide →](../../Recognition-Rituals/Daily-Rituals.md)** - Comprehensive practices and tools
-- **[Recognition Framework →](../../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
+- **[Complete Daily Rituals Guide →](/../Recognition-Rituals/Daily-Rituals.md)** - Comprehensive practices and tools
+- **[Recognition Framework →](/../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
 - **[TIK Language Guide →](./TIK-Language-Guide.md)** - Speaking TIK fluently
-- **[Operating Principles Overview →](../Overview.md)** - Our 7 core principles
+- **[Operating Principles Overview →](/Overview.md)** - Our 7 core principles
 
 ---
 

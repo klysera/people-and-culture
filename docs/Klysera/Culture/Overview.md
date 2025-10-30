@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **🎭 Culture**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **🎭 Culture**
 
 ---
 
@@ -69,16 +69,16 @@ This Culture module contains the foundational elements that define who we are as
 ## How Culture Connects
 
 ### To Daily Work
-**[Operating Principles →](../Operating-Principles/Overview.md)** - How values translate to daily practices
+**[Operating Principles →](/Operating-Principles/Overview.md)** - How values translate to daily practices
 
 ### To Recognition
-**[Recognition & Rituals →](../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate values in action
+**[Recognition & Rituals →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate values in action
 
 ### To Leadership
-**[Leadership Principles →](../Leadership/Overview.md)** - How leaders model and build culture
+**[Leadership Principles →](/Leadership/Overview.md)** - How leaders model and build culture
 
 ### To Onboarding
-**[Hiring & Onboarding →](../Hiring-Onboarding/Hiring-Guide.md)** - How we ensure cultural alignment
+**[Hiring & Onboarding →](/Hiring-Onboarding/Hiring-Guide.md)** - How we ensure cultural alignment
 
 ---
 
@@ -106,10 +106,10 @@ This Culture module contains the foundational elements that define who we are as
 
 ## Related Resources
 
-- **[Operating Principles →](../Operating-Principles/Overview.md)** - How we work
-- **[Daily Rituals →](../Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
-- **[Leadership Overview →](../Leadership/Overview.md)** - Cultural leadership
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[Operating Principles →](/Operating-Principles/Overview.md)** - How we work
+- **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
+- **[Leadership Overview →](/Leadership/Overview.md)** - Cultural leadership
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🏆 Recognition & Rituals](./Overview.md)** | **Special Programs**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[🏆 Recognition & Rituals](./Overview.md)** | **Special Programs**
 
 ---
 
@@ -407,8 +407,8 @@
 
 - **[Recognition Framework →](./Recognition-Framework.md)** - How we celebrate excellence
 - **[Daily Rituals →](./Daily-Rituals.md)** - Living culture daily
-- **[Culture Stories →](../Culture/Culture-Stories.md)** - Inspiring TIK examples
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[Culture Stories →](/Culture/Culture-Stories.md)** - Inspiring TIK examples
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

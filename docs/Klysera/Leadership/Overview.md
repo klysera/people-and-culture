@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **👑 Leadership**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **👑 Leadership**
 
 ---
 
@@ -147,10 +147,10 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ## Related Resources
 
-- **[TIK Identity →](../Culture/TIK-Identity.md)** - Our values foundation
-- **[Operating Principles →](../../Operating-Principles/Overview.md)** - How we work
-- **[Playbook Overview →](../Playbook/Overview.md)** - Daily operations
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[TIK Identity →](/Culture/TIK-Identity.md)** - Our values foundation
+- **[Operating Principles →](/../Operating-Principles/Overview.md)** - How we work
+- **[Playbook Overview →](/Playbook/Overview.md)** - Daily operations
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[Home](./README.md)** | **[Navigation](./README.md)** | **[File Structure](./FILE-STRUCTURE.md)** | **Culture Hub**
+**[Home](./#/)** | **[Navigation](./#/)** | **[File Structure](./FILE-STRUCTURE.md)** | **Culture Hub**
 
 ---
 

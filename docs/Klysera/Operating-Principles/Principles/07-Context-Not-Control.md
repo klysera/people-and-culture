@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Context Not Control**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🧪 Principles](/Tools/Quick-Reference-Cards.md)** | **Context Not Control**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Empower through information and purpose."**
 
-**[← Back to Operating Principles Overview](../Overview.md)**
+**[← Back to Operating Principles Overview](/Overview.md)**
 
 ---
 

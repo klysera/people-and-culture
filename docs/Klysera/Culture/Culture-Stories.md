@@ -1,4 +1,4 @@
-**[🏠 Home](../README.md)** | **[🧭 Navigation](../README.md)** | **[📚 Culture Hub](../Culture-Hub.md)** | **[🎭 Culture](./Overview.md)** | **Culture Stories**
+**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera//Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Culture Stories**
 
 ---
 
@@ -257,9 +257,9 @@
 ## Related Resources
 
 - **[TIK Identity →](./TIK-Identity.md)** - Understanding our values
-- **[Recognition Framework →](../Recognition-Rituals/Recognition-Framework.md)** - How to recognize TIK moments
-- **[Daily Rituals →](../Recognition-Rituals/Daily-Rituals.md)** - Living TIK every day
-- **[← Back to Culture Hub](../Culture-Hub.md)**
+- **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How to recognize TIK moments
+- **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - Living TIK every day
+- **[← Back to Culture Hub](/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[📊 Measurement](./Culture-Metrics.md)** | **Culture Metrics**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[📊 Measurement](./Culture-Metrics.md)** | **Culture Metrics**
 
 ---
 
@@ -351,4 +351,4 @@ graph LR
 
 ---
 
-*[← Back to Values Overview](../../Culture/TIK-Identity.md) | [View Shared Frameworks →](../Shared-Frameworks.md)*
+*[← Back to Values Overview](/../Culture/TIK-Identity.md) | [View Shared Frameworks →](/Shared-Frameworks.md)*

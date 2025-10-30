@@ -1,4 +1,4 @@
-**[🏠 Home](../../README.md)** | **[🧭 Navigation](../../README.md)** | **[📚 Culture Hub](../../Culture-Hub.md)** | **[🔧 Operating Principles](../Overview.md)** | **[🧪 Principles](../Tools/Quick-Reference-Cards.md)** | **Learn Fast, Apply Faster**
+**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera//../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🧪 Principles](/Tools/Quick-Reference-Cards.md)** | **Learn Fast, Apply Faster**
 
 ---
 
@@ -6,7 +6,7 @@
 
 **"Turn every experience into immediate improvement."**
 
-**[← Back to Operating Principles Overview](../Overview.md)**
+**[← Back to Operating Principles Overview](/Overview.md)**
 
 ---
 
