@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🎯 Hiring & Onboarding](docs/Klysera/Overview.md)** | **Hiring Guide**
+
 
 ---
 
@@ -11,6 +11,7 @@
 ## Hiring Philosophy
 
 ### Who We're Looking For
+
 
 ```mermaid
 graph TB

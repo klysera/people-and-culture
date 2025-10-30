@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🎯 Hiring & Onboarding](docs/Klysera/Overview.md)** | **TIK Certification Program**
 
 ---
 
@@ -13,6 +12,7 @@
 The TIK Certification Program is a structured assessment system that validates new team members' understanding and internalization of our TIK values, operating principles, and cultural foundations. This remote-friendly certification ensures consistent cultural integration regardless of location.
 
 ### Certification Levels
+
 
 ```mermaid
 graph TB
@@ -30,6 +30,7 @@ graph TB
     style C fill:#96CEB4
     style D fill:#FF6B6B,color:#fff
 ```
+
 
 ---
 

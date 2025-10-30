@@ -293,8 +293,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 
   <!-- Mermaid support -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
-  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.css">
+  <script src="//cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 
   <!-- Custom collapsible sidebar script -->
   <script>
@@ -366,10 +366,25 @@ ${mermaidCode}
         });
 
         hook.doneEach(function() {
+          // Clear any previously rendered diagrams to avoid conflicts
+          document.querySelectorAll('.mermaid svg').forEach(svg => svg.remove());
+
           // Render all Mermaid diagrams after content is loaded
           const mermaidElements = document.querySelectorAll('.mermaid');
           if (mermaidElements.length > 0) {
-            mermaid.init(undefined, mermaidElements);
+            // Reset IDs to avoid conflicts
+            mermaidElements.forEach((element, index) => {
+              element.id = `mermaid-${Date.now()}-${index}`;
+            });
+
+            try {
+              mermaid.init(undefined, mermaidElements);
+            } catch (error) {
+              console.error('Mermaid rendering error:', error);
+              mermaidElements.forEach(element => {
+                element.innerHTML = '<p style="color: red; font-style: italic;">Error rendering diagram</p>';
+              });
+            }
           }
         });
       },

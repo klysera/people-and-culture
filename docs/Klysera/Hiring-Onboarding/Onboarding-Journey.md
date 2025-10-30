@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🎯 Hiring & Onboarding](docs/Klysera/Overview.md)** | **Onboarding Journey**
+
 
 ---
 

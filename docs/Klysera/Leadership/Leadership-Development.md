@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Leadership](/docs/Klysera/Leadership/Overview.md)** | **Leadership Development**
+
 
 ---
 

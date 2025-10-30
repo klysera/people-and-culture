@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **TIK Identity**
 
 ---
 
@@ -10,24 +9,32 @@
 
 ## The Klysera Spirit
 
+
 ```mermaid
-mindmap
-  root((This Is Klysera))
-    Relentless Truth
-      Seek what's real
-      Test assumptions
-      Challenge everything
-      Follow evidence
-    Uncompromising Excellence
-      Exceed expectations
-      Deliver with pride
-      Support with warmth
-      Never settle
-    Meaningful Impact
-      Transform lives
-      Create opportunity
-      Build the future
-      Leave things better
+graph TB
+    TIK[("This Is Klysera")] --> RT[Relentless Truth]
+    TIK --> UE[Uncompromising Excellence]
+    TIK --> MI[Meaningful Impact]
+
+    RT --> RT1[Seek what's real]
+    RT --> RT2[Test assumptions]
+    RT --> RT3[Challenge everything]
+    RT --> RT4[Follow evidence]
+
+    UE --> UE1[Exceed expectations]
+    UE --> UE2[Deliver with pride]
+    UE --> UE3[Support with warmth]
+    UE --> UE4[Never settle]
+
+    MI --> MI1[Transform lives]
+    MI --> MI2[Create opportunity]
+    MI --> MI3[Build the future]
+    MI --> MI4[Leave things better]
+
+    style TIK fill:#4f81bd,color:#fff
+    style RT fill:#6699cc,color:#fff
+    style UE fill:#6699cc,color:#fff
+    style MI fill:#6699cc,color:#fff
 ```
 
 ---
@@ -121,25 +128,34 @@ When we see someone embodying our values:
 
 ## TIK in Action Examples
 
+
 ```mermaid
-mindmap
-  root((TIK Excellence))
-    Truth Examples
-      Challenge with evidence
-      Run experiments first
-      Admit "I don't know"
-      Share difficult insights
-    Excellence Examples
-      Exceed expectations
-      Support team growth
-      Deliver with pride
-      Maintain high standards
-    Impact Examples
-      Solve real problems
-      Enable transformation
-      Connect to purpose
-      Create lasting change
+graph TB
+    Excellence[("TIK Excellence")] --> Truth[Truth Examples]
+    Excellence --> Quality[Excellence Examples]
+    Excellence --> Impact[Impact Examples]
+
+    Truth --> T1[Challenge with evidence]
+    Truth --> T2[Run experiments first]
+    Truth --> T3[Admit "I don't know"]
+    Truth --> T4[Share difficult insights]
+
+    Quality --> Q1[Exceed expectations]
+    Quality --> Q2[Support team growth]
+    Quality --> Q3[Deliver with pride]
+    Quality --> Q4[Maintain high standards]
+
+    Impact --> I1[Solve real problems]
+    Impact --> I2[Enable transformation]
+    Impact --> I3[Connect to purpose]
+    Impact --> I4[Create lasting change]
+
+    style Excellence fill:#4f81bd,color:#fff
+    style Truth fill:#6699cc,color:#fff
+    style Quality fill:#6699cc,color:#fff
+    style Impact fill:#6699cc,color:#fff
 ```
+
 
 **[📖 View Complete Examples →](docs/Klysera/Culture/Culture-Stories.md)**
 

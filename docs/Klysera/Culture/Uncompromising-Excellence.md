@@ -1,4 +1,4 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[Culture](/docs/Klysera/Culture/Overview.md)** | **Uncompromising Excellence**
+
 
 ---
 

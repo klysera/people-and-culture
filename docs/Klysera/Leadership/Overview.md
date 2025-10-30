@@ -1,5 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **👑 Leadership**
-
 ---
 
 # Leadership Overview
@@ -41,36 +39,43 @@ graph TB
 ## Our 7 Leadership Principles
 
 ### 1. Lead with Truth and Transparency
+
 **"Create clarity through honest, evidence-based communication"**
 
 Share information openly, admit when you don't know something, and base decisions on evidence rather than assumptions.
 
 ### 2. Enable Excellence Through Support
+
 **"Create conditions for others to exceed expectations"**
 
 Remove barriers, provide resources, and set clear standards that help people achieve their best performance.
 
 ### 3. Develop People as a Primary Responsibility
+
 **"Growing others is how leaders multiply impact"**
 
 Make everyone's growth a priority through coaching, stretch opportunities, and clear advancement pathways.
 
 ### 4. Make Decisions with Context and Speed
+
 **"Empower others through information and clear decision-making"**
 
 Share the why behind decisions and push decision-making to the appropriate level with proper context.
 
 ### 5. Build Culture Through Modeling
+
 **"Culture is what leaders do when no one is watching"**
 
 Embody TIK values consistently and create rituals that reinforce our cultural foundation.
 
 ### 6. Focus on Results and Impact
+
 **"Measure success by transformation created, not activity completed"**
 
 Define clear outcomes, focus on impact over activity, and connect work to larger purpose.
 
 ### 7. Adapt and Learn Continuously
+
 **"Model the experimental mindset and continuous improvement"**
 
 Embrace change, learn from failures quickly, and evolve leadership approach based on feedback.
@@ -80,21 +85,27 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 ## Leadership Resources
 
 ### 📚 Development & Training
+
 **[Leadership Development →](docs/Klysera/Leadership-Development.md)**
+
 - New leader onboarding process
 - Ongoing development programs
 - Competency model and assessment
 - Growth pathway planning
 
 ### 🛠️ Tools & Templates
+
 **[Leadership Tools →](docs/Klysera/Leadership-Tools.md)**
+
 - Daily leadership practices
 - Decision-making frameworks
 - Communication templates
 - 1:1 meeting structures
 
 ### 📊 Assessment & Feedback
+
 **[Leadership Assessment →](docs/Klysera/Leadership-Assessment.md)**
+
 - Performance standards and metrics
 - 360-degree feedback processes
 - Self-assessment tools
@@ -123,21 +134,27 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 ## The Leadership Promise
 
 ### To Our Teams
+
 **We commit to:**
+
 - Creating conditions for your best work
 - Supporting your growth and development
 - Providing clear direction and context
 - Recognizing and celebrating your contributions
 
 ### To Our Organization
+
 **We commit to:**
+
 - Building and maintaining strong culture
 - Delivering exceptional business results
 - Developing future leaders
 - Representing Klysera values consistently
 
 ### To Our Clients
+
 **We commit to:**
+
 - Leading teams that exceed expectations
 - Building relationships based on trust
 - Delivering transformation and value
