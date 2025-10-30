@@ -351,13 +351,7 @@
           const mermaidRegex = /```mermaid\r?\n([\s\S]*?)```/g;
           let index = 0;
 
-          // Debug logging
-          if (content.includes('```mermaid')) {
-            console.log('Found mermaid blocks in content');
-          }
-
           content = content.replace(mermaidRegex, function(match, mermaidCode) {
-            console.log('Processing mermaid block:', index);
             const cleanCode = mermaidCode.trim();
             const mermaidDiv = `<div class="mermaid-container" style="text-align: center; margin: 20px 0;">
               <div class="mermaid" id="mermaid-${index}">
