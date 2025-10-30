@@ -347,20 +347,26 @@
       function(hook) {
         hook.beforeEach(function(content) {
           // Convert Mermaid code blocks to div containers
-          const mermaidRegex = /```mermaid\n([\s\S]*?)```/g;
-          let match;
+          // Handle different line ending scenarios
+          const mermaidRegex = /```mermaid\r?\n([\s\S]*?)```/g;
           let index = 0;
 
-          while ((match = mermaidRegex.exec(content)) !== null) {
-            const mermaidCode = match[1];
+          // Debug logging
+          if (content.includes('```mermaid')) {
+            console.log('Found mermaid blocks in content');
+          }
+
+          content = content.replace(mermaidRegex, function(match, mermaidCode) {
+            console.log('Processing mermaid block:', index);
+            const cleanCode = mermaidCode.trim();
             const mermaidDiv = `<div class="mermaid-container" style="text-align: center; margin: 20px 0;">
               <div class="mermaid" id="mermaid-${index}">
-${mermaidCode}
+${cleanCode}
               </div>
             </div>`;
-            content = content.replace(match[0], mermaidDiv);
             index++;
-          }
+            return mermaidDiv;
+          });
 
           return content;
         });
