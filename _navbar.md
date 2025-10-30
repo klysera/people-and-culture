@@ -3,7 +3,7 @@
 * **Quick Access**
   * [Home](/)
   * [Culture Hub](docs/Klysera/Culture-Hub.md)
-  * [🚨 2-Month Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)
+  * [2-Month Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)
 
 * **New Team Members**
   * [Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)

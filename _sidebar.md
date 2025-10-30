@@ -54,7 +54,7 @@
 - [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)
 - [Special Programs](docs/Klysera/Recognition-Rituals/Special-Programs.md)
 
-## 🚨 URGENT: Roadmap
+## Roadmap
 - [Overview](docs/Klysera/Roadmap/Overview.md)
 - [2-Month Operational Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)
 
