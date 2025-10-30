@@ -6,7 +6,7 @@
 
 **"Seeking the objectively best way to solve problems through experimentation and first principles thinking"**
 
-**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/Culture/TIK-Identity.md)**
 
 ---
 
@@ -89,7 +89,7 @@ When all three work together, we discover the best approach, execute it perfectl
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](/Operating-Principles/Overview.md):**
+**For practical implementation of this value, see [Operating Principles](docs/Klysera/Operating-Principles/Overview.md):**
 - **Experimental Mindset** - How to structure work as experiments
 - **Truth Over Comfort** - How to communicate difficult truths
 - **Learn Fast, Apply Faster** - How to turn insights into immediate improvement

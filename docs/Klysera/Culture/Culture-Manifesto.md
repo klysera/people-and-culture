@@ -56,24 +56,28 @@ This isn't just business strategy—it's our calling. Every interaction, every p
 ## Our Promises
 
 ### To Our Talent
+
 - **We see your potential** before you do
 - **We amplify your strengths** in ways that matter
 - **We prepare you** for the AI-era opportunities ahead
 - **We support your growth** beyond any single placement
 
 ### To Our Clients
+
 - **We understand your transformation** needs deeply
 - **We deliver talent** that drives real change
 - **We partner for success** not just placement
 - **We think long-term** about your competitive advantage
 
 ### To Each Other
+
 - **We support your excellence** with genuine care
 - **We celebrate your contributions** publicly and proudly
 - **We create space** for you to do your best work
 - **We grow together** toward shared aspirations
 
 ### To Our Industry
+
 - **We set new standards** for what's possible
 - **We share insights** that advance the field
 - **We create opportunities** for underrepresented talent
@@ -101,13 +105,13 @@ When we celebrate success, we declare with pride:
 
 ## Related Resources
 
-- **[TIK Identity →](docs/Klysera/TIK-Identity.md)** - Deep dive into our values and cultural DNA
-- **[Culture Stories →](docs/Klysera/Culture-Stories.md)** - Inspiring examples of TIK in action
-- **[Daily Rituals →](/Recognition-Rituals/Daily-Rituals.md)** - How to live TIK every day
-- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
+- **[TIK Identity →](docs/Klysera/Culture/TIK-Identity.md)** - Deep dive into our values and cultural DNA
+- **[Culture Stories →](docs/Klysera/Culture/Culture-Stories.md)** - Inspiring examples of TIK in action
+- **[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - How to live TIK every day
+- **[← Back to Culture Hub](docs/Klysera/Culture/Culture-Hub.md)**
 
 ---
 
-*This manifesto lives and breathes through every interaction, every decision, every moment we choose to embody who we are.*
+_This manifesto lives and breathes through every interaction, every decision, every moment we choose to embody who we are._
 
 **This Is Klysera. This is who we are. This is what we stand for.**

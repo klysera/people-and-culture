@@ -150,6 +150,28 @@
       background: var(--theme-color) !important;
       color: white !important;
     }
+
+    /* Mermaid diagram styling */
+    .mermaid-container {
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 25px 0;
+      border: 1px solid #e9ecef;
+      overflow-x: auto;
+    }
+
+    .mermaid {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    /* Mermaid responsive design */
+    @media screen and (max-width: 768px) {
+      .mermaid-container {
+        padding: 10px;
+        margin: 15px -10px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -270,9 +292,88 @@
   <!-- External script plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 
+  <!-- Mermaid support -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
   <!-- Custom collapsible sidebar script -->
   <script>
+    // Initialize Mermaid with Klysera theme colors
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'base',
+      themeVariables: {
+        primaryColor: '#4f81bd',
+        primaryTextColor: '#fff',
+        primaryBorderColor: '#3d689b',
+        lineColor: '#6699cc',
+        secondaryColor: '#f8f9fa',
+        tertiaryColor: '#e9ecef',
+        background: '#ffffff',
+        mainBkg: '#4f81bd',
+        secondBkg: '#6699cc',
+        tertiaryBkg: '#f8f9fa',
+        primaryFontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+        fontSize: '14px'
+      },
+      flowchart: {
+        htmlLabels: true,
+        curve: 'basis',
+        rankSpacing: 50,
+        nodeSpacing: 50,
+        padding: 10
+      },
+      sequence: {
+        diagramMarginX: 50,
+        diagramMarginY: 20,
+        actorMargin: 50,
+        width: 150,
+        height: 65,
+        boxMargin: 10,
+        boxTextMargin: 5,
+        noteMargin: 10,
+        messageMargin: 35
+      },
+      gantt: {
+        numberSectionStyles: 4,
+        fontSize: 12,
+        gridLineStartPadding: 350,
+        fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+      }
+    });
+
     window.$docsify.plugins = [].concat(window.$docsify.plugins || [], [
+      // Mermaid rendering plugin
+      function(hook) {
+        hook.beforeEach(function(content) {
+          // Convert Mermaid code blocks to div containers
+          const mermaidRegex = /```mermaid\n([\s\S]*?)```/g;
+          let match;
+          let index = 0;
+
+          while ((match = mermaidRegex.exec(content)) !== null) {
+            const mermaidCode = match[1];
+            const mermaidDiv = `<div class="mermaid-container" style="text-align: center; margin: 20px 0;">
+              <div class="mermaid" id="mermaid-${index}">
+${mermaidCode}
+              </div>
+            </div>`;
+            content = content.replace(match[0], mermaidDiv);
+            index++;
+          }
+
+          return content;
+        });
+
+        hook.doneEach(function() {
+          // Render all Mermaid diagrams after content is loaded
+          const mermaidElements = document.querySelectorAll('.mermaid');
+          if (mermaidElements.length > 0) {
+            mermaid.init(undefined, mermaidElements);
+          }
+        });
+      },
+
       function(hook) {
         hook.doneEach(function() {
           // Add collapsible functionality to sidebar sections

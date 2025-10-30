@@ -6,7 +6,7 @@
 
 **"Creating genuine transformation for people, organizations, and the future of work"**
 
-**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/Culture/TIK-Identity.md)**
 
 ---
 
@@ -127,7 +127,7 @@ When all three work together, we find the best approach, execute it perfectly, a
 
 ---
 
-**For practical implementation of this value, see [Operating Principles](/Operating-Principles/Overview.md):**
+**For practical implementation of this value, see [Operating Principles](docs/Klysera/Operating-Principles/Overview.md):**
 - **Context Not Control** - How to empower through information and purpose
 - **Results Over Motion** - How to focus on transformation that matters
 - **Learn Fast, Apply Faster** - How to turn insights into immediate impact

@@ -6,7 +6,7 @@
 
 **"Delivering exceptional quality that exceeds expectations in everything we do"**
 
-**[← Back to Values Overview](docs/Klysera/TIK-Identity.md)**
+**[← Back to Values Overview](docs/Klysera/Culture/TIK-Identity.md)**
 
 ---
 
