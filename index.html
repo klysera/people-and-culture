@@ -245,7 +245,35 @@
   <!-- External script plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 
-  <!-- Sidebar collapse plugin -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <!-- Custom collapsible sidebar script -->
+  <script>
+    window.$docsify.plugins = [].concat(window.$docsify.plugins || [], [
+      function(hook) {
+        hook.doneEach(function() {
+          // Add collapsible functionality to sidebar sections
+          const sidebar = document.querySelector('.sidebar');
+          if (sidebar) {
+            const headers = sidebar.querySelectorAll('h3');
+            headers.forEach(header => {
+              const nextElement = header.nextElementSibling;
+              if (nextElement && nextElement.tagName === 'UL') {
+                // Make header clickable
+                header.style.cursor = 'pointer';
+                header.style.userSelect = 'none';
+                header.innerHTML = '▼ ' + header.textContent;
+
+                // Add click handler
+                header.onclick = function() {
+                  const isVisible = nextElement.style.display !== 'none';
+                  nextElement.style.display = isVisible ? 'none' : 'block';
+                  this.innerHTML = (isVisible ? '▶ ' : '▼ ') + this.textContent.replace(/^[▼▶] /, '');
+                };
+              }
+            });
+          }
+        });
+      }
+    ]);
+  </script>
 </body>
 </html>
