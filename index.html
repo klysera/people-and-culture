@@ -353,7 +353,7 @@
           content = content.replace(mermaidRegex, function(match, mermaidCode) {
             const cleanCode = mermaidCode.trim();
             const mermaidDiv = `<div class="mermaid-container" style="text-align: center; margin: 20px 0;">
-              <div class="mermaid" id="mermaid-${index}">
+              <div class="mermaid-diagram" data-content="${btoa(cleanCode)}" id="mermaid-${index}">
 ${cleanCode}
               </div>
             </div>`;
@@ -367,40 +367,65 @@ ${cleanCode}
         hook.doneEach(function() {
           // Wait a bit for content to be fully processed
           setTimeout(() => {
-            // Find all mermaid elements
-            const mermaidElements = document.querySelectorAll('.mermaid');
+            // Find all mermaid diagram elements
+            const mermaidElements = document.querySelectorAll('.mermaid-diagram');
 
             if (mermaidElements.length > 0) {
-              // Clear any previously rendered diagrams
-              mermaidElements.forEach(element => {
-                const existingSvg = element.querySelector('svg');
-                if (existingSvg) {
-                  existingSvg.remove();
-                }
-              });
-
-              // Reset IDs and ensure clean content
+              // Process each diagram
               mermaidElements.forEach((element, index) => {
+                // Skip if already processed
+                if (element.hasAttribute('data-processed')) {
+                  return;
+                }
+
+                // Mark as processed to prevent double rendering
+                element.setAttribute('data-processed', 'true');
+
+                // Get the original content from data attribute
+                const encodedContent = element.getAttribute('data-content');
+                let diagramContent = '';
+
+                if (encodedContent) {
+                  try {
+                    diagramContent = atob(encodedContent);
+                  } catch (e) {
+                    // Fallback to text content
+                    diagramContent = element.textContent.trim();
+                  }
+                } else {
+                  diagramContent = element.textContent.trim();
+                }
+
+                // Clear the element and set up for mermaid
+                element.innerHTML = '';
+                element.className = 'mermaid';
                 element.id = `mermaid-${Date.now()}-${index}`;
 
-                // Ensure the element contains diagram code, not CSS
-                const content = element.textContent.trim();
-                if (content.includes('graph') || content.includes('flowchart') || content.includes('sequenceDiagram')) {
-                  // Content looks good, proceed with rendering
+                // Validate content
+                if (diagramContent.includes('graph') ||
+                    diagramContent.includes('flowchart') ||
+                    diagramContent.includes('sequenceDiagram') ||
+                    diagramContent.includes('classDiagram') ||
+                    diagramContent.includes('pie') ||
+                    diagramContent.includes('gantt')) {
+
+                  // Set the content and render
+                  element.textContent = diagramContent;
+
                   try {
                     mermaid.init(undefined, element);
                   } catch (error) {
                     console.error('Mermaid rendering error for element', index, ':', error);
-                    console.error('Element content:', content.substring(0, 200));
-                    element.innerHTML = '<p style="color: red; font-style: italic;">Error rendering diagram: ' + error.message + '</p>';
+                    console.error('Diagram content:', diagramContent.substring(0, 200));
+                    element.innerHTML = `<p style="color: red; font-style: italic;">Error rendering diagram: ${error.message}</p>`;
                   }
                 } else {
-                  console.warn('Invalid mermaid content detected:', content.substring(0, 100));
+                  console.warn('Invalid mermaid content detected:', diagramContent.substring(0, 100));
                   element.innerHTML = '<p style="color: orange; font-style: italic;">Invalid diagram content</p>';
                 }
               });
             }
-          }, 100);
+          }, 200);
         });
       },
 
