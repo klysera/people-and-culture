@@ -398,11 +398,11 @@ Team Cultural Readiness: 82% (Strong)
 
 ## Related Resources
 
-- **[Onboarding Journey →](docs/Klysera/Onboarding-Journey.md)** - Complete 30-day journey
-- **[Integration Tools →](docs/Klysera/Integration-Tools.md)** - Assessment templates
+- **[Onboarding Journey →](docs/Klysera/Hiring-Onboarding/Onboarding-Journey.md)** - Complete 30-day journey
+- **[Integration Tools →](docs/Klysera/Hiring-Onboarding/Integration-Tools.md)** - Assessment templates
 - **[TIK Identity →](/Culture/TIK-Identity.md)** - Values foundation
 - **[Operating Principles →](/../Operating-Principles/Overview.md)** - Principle framework
-- **[← Back to Hiring & Onboarding Overview](docs/Klysera/Overview.md)**
+- **[← Back to Hiring & Onboarding Overview](docs/Klysera/Hiring-Onboarding/Overview.md)**
 
 ---
 

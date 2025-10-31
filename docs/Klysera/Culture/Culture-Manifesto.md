@@ -107,7 +107,7 @@ When we celebrate success, we declare with pride:
 - **[TIK Identity →](docs/Klysera/Culture/TIK-Identity.md)** - Deep dive into our values and cultural DNA
 - **[Culture Stories →](docs/Klysera/Culture/Culture-Stories.md)** - Inspiring examples of TIK in action
 - **[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - How to live TIK every day
-- **[← Back to Culture Hub](docs/Klysera/Culture/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

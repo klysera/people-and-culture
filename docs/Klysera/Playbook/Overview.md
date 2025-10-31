@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **📜 Playbook**
 
 ---
 
@@ -17,31 +16,31 @@ This playbook contains the practical frameworks, policies, and processes that en
 ## Playbook Modules
 
 ### 📞 Communication
-**[Communication Guide →](docs/Klysera/Communication-Guide.md)**
+**[Communication Guide →](docs/Klysera/Playbook/Communication-Guide.md)**
 - TIK communication model
 - Channel guidelines and best practices
 - Feedback and recognition communication
 
 ### 🤝 Meetings
-**[Meeting Culture →](docs/Klysera/Meeting-Culture.md)**
+**[Meeting Culture →](docs/Klysera/Playbook/Meeting-Culture.md)**
 - Meeting standards and types
 - Facilitation best practices
 - Virtual and in-person excellence
 
 ### 🎯 Decision Making
-**[Decision Framework →](docs/Klysera/Decision-Framework.md)**
+**[Decision Framework →](docs/Klysera/Playbook/Decision-Framework.md)**
 - TIK decision process
 - Authority levels and documentation
 - Quick decision tools
 
 ### ⚙️ Operations
-**[Daily Operations →](docs/Klysera/Daily-Operations.md)**
+**[Daily Operations →](docs/Klysera/Playbook/Daily-Operations.md)**
 - TIK daily rhythms
 - Weekly and monthly cycles
 - Performance standards
 
 ### 📋 Policies
-**[Policies & Guidelines →](docs/Klysera/Policies-Guidelines.md)**
+**[Policies & Guidelines →](docs/Klysera/Playbook/Policies-Guidelines.md)**
 - Code of conduct
 - Security and compliance
 - Work environment standards
@@ -50,10 +49,10 @@ This playbook contains the practical frameworks, policies, and processes that en
 
 ## Quick Start for New Team Members
 
-1. **Read [Communication Guide](docs/Klysera/Communication-Guide.md)** - How we connect
-2. **Review [Meeting Culture](docs/Klysera/Meeting-Culture.md)** - How we collaborate
-3. **Practice [Decision Framework](docs/Klysera/Decision-Framework.md)** - How we choose
-4. **Follow [Daily Operations](docs/Klysera/Daily-Operations.md)** - How we work
+1. **Read [Communication Guide](docs/Klysera/Playbook/Communication-Guide.md)** - How we connect
+2. **Review [Meeting Culture](docs/Klysera/Playbook/Meeting-Culture.md)** - How we collaborate
+3. **Practice [Decision Framework](docs/Klysera/Playbook/Decision-Framework.md)** - How we choose
+4. **Follow [Daily Operations](docs/Klysera/Playbook/Daily-Operations.md)** - How we work
 
 ---
 

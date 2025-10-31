@@ -397,8 +397,8 @@ Thank you [Name] for enabling our team's success.
 
 ## Related Resources
 
-- **[Leadership Overview →](docs/Klysera/Overview.md)** - Core leadership principles
-- **[Leadership Development →](docs/Klysera/Leadership-Development.md)** - Growth and training
+- **[Leadership Overview →](docs/Klysera/Leadership/Overview.md)** - Core leadership principles
+- **[Leadership Development →](docs/Klysera/Leadership/Leadership-Development.md)** - Growth and training
 - **[Decision Framework →](/Playbook/Decision-Framework.md)** - Decision-making guidance
 - **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 

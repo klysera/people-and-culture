@@ -429,8 +429,8 @@
 
 ## Related Resources
 
-- **[Hiring Guide →](docs/Klysera/Hiring-Guide.md)** - How we select new team members
-- **[Integration Tools →](docs/Klysera/Integration-Tools.md)** - Checklists and resources
+- **[Hiring Guide →](docs/Klysera/Hiring-Onboarding/Hiring-Guide.md)** - How we select new team members
+- **[Integration Tools →](docs/Klysera/Hiring-Onboarding/Integration-Tools.md)** - Checklists and resources
 - **[TIK Identity →](/Culture/TIK-Identity.md)** - Understanding our values
 - **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 

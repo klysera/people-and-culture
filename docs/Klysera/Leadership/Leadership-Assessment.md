@@ -374,9 +374,9 @@
 
 ## Related Resources
 
-- **[Leadership Overview →](docs/Klysera/Overview.md)** - Core leadership principles
-- **[Leadership Development →](docs/Klysera/Leadership-Development.md)** - Growth and training
-- **[Leadership Tools →](docs/Klysera/Leadership-Tools.md)** - Practical resources
+- **[Leadership Overview →](docs/Klysera/Leadership/Overview.md)** - Core leadership principles
+- **[Leadership Development →](docs/Klysera/Leadership/Leadership-Development.md)** - Growth and training
+- **[Leadership Tools →](docs/Klysera/Leadership/Leadership-Tools.md)** - Practical resources
 - **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---

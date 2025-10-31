@@ -86,7 +86,7 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ### 📚 Development & Training
 
-**[Leadership Development →](docs/Klysera/Leadership-Development.md)**
+**[Leadership Development →](docs/Klysera/Leadership/Leadership-Development.md)**
 
 - New leader onboarding process
 - Ongoing development programs
@@ -95,7 +95,7 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ### 🛠️ Tools & Templates
 
-**[Leadership Tools →](docs/Klysera/Leadership-Tools.md)**
+**[Leadership Tools →](docs/Klysera/Leadership/Leadership-Tools.md)**
 
 - Daily leadership practices
 - Decision-making frameworks
@@ -104,7 +104,7 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ### 📊 Assessment & Feedback
 
-**[Leadership Assessment →](docs/Klysera/Leadership-Assessment.md)**
+**[Leadership Assessment →](docs/Klysera/Leadership/Leadership-Assessment.md)**
 
 - Performance standards and metrics
 - 360-degree feedback processes
@@ -115,9 +115,9 @@ Embrace change, learn from failures quickly, and evolve leadership approach base
 
 ## Quick Start for New Leaders
 
-1. **Study the [Leadership Development](docs/Klysera/Leadership-Development.md) guide**
-2. **Practice with [Leadership Tools](docs/Klysera/Leadership-Tools.md)**
-3. **Set up regular [Leadership Assessment](docs/Klysera/Leadership-Assessment.md) cycles**
+1. **Study the [Leadership Development](docs/Klysera/Leadership/Leadership-Development.md) guide**
+2. **Practice with [Leadership Tools](docs/Klysera/Leadership/Leadership-Tools.md)**
+3. **Set up regular [Leadership Assessment](docs/Klysera/Leadership/Leadership-Assessment.md) cycles**
 4. **Connect with experienced leader mentors**
 
 ---

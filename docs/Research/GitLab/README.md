@@ -1,4 +1,3 @@
-**[🏠 Home](docs/Klysera/../README.md)** | **[🧭 Navigation](docs/Klysera/../README.md)** | **[📚 Culture Hub](docs/Klysera/../Culture-Hub.md)** | **[🔬 Research](docs/Klysera/README.md)** | **📊 GitLab**
 
 ---
 
@@ -17,20 +16,20 @@
 
 ## 📋 Document Directory
 
-### 🎯 [0. Executive Summary](0_GitLab_Summary.md)
+### 🎯 [0. Executive Summary](docs/Research/GitLab/0_GitLab_Summary.md)
 **Key Insights:** Overall findings, success factors, and implementation roadmap
 - Critical HR success factors
 - Talent attraction strategies
 - Remote-first advantages
 - Implementation guide for other companies
 
-### 🚀 [1. Mission & Vision](1_Mission_Vision.md)
+### 🚀 [1. Mission & Vision](docs/Research/GitLab/1_Mission_Vision.md)
 **Focus:** Strategic direction and purpose
 - How mission attracts purpose-driven talent
 - Vision for democratizing software development
 - Strategic goals that resonate with employees
 
-### 💎 [2. Values & Culture (CREDIT Framework)](2_Values_Culture.md)
+### 💎 [2. Values & Culture (CREDIT Framework)](docs/Research/GitLab/2_Values_Culture.md)
 **HR Highlight:** Foundation for all people decisions
 - **Collaboration** - Building inclusive teams
 - **Results** - Performance management philosophy
@@ -39,7 +38,7 @@
 - **Iteration** - Continuous improvement mindset
 - **Transparency** - Radical openness
 
-### 👥 [3. Hiring Processes](3_Hiring_Processes.md)
+### 👥 [3. Hiring Processes](docs/Research/GitLab/3_Hiring_Processes.md)
 **Talent Acquisition Excellence:**
 - Remote-first recruitment strategies
 - Values-based interview process
@@ -47,7 +46,7 @@
 - Onboarding best practices
 - Success metrics and continuous improvement
 
-### 🌐 [4. Remote Work Principles](4_Remote_Work_Principles.md)
+### 🌐 [4. Remote Work Principles](docs/Research/GitLab/4_Remote_Work_Principles.md)
 **Remote Work Mastery:**
 - All-remote vs remote-first philosophy
 - Asynchronous communication guidelines
@@ -55,7 +54,7 @@
 - Mental health and isolation management
 - Technology and infrastructure
 
-### 🤝 [5. Team Building Practices](5_Team_Building.md)
+### 🤝 [5. Team Building Practices](docs/Research/GitLab/5_Team_Building.md)
 **Culture & Engagement:**
 - Virtual coffee chats and social calls
 - Team Member Resource Groups (TMRGs)
@@ -63,7 +62,7 @@
 - Psychological safety initiatives
 - Cross-team collaboration
 
-### ⚙️ [6. Operating Principles](6_Operating_Principles.md)
+### ⚙️ [6. Operating Principles](docs/Research/GitLab/6_Operating_Principles.md)
 **People Operations Framework:**
 - Performance management approach
 - Career development pathways
@@ -71,7 +70,7 @@
 - Learning & development programs
 - Organizational design
 
-### 📖 [7. Handbook Key Elements](7_Handbook_Key_Elements.md)
+### 📖 [7. Handbook Key Elements](docs/Research/GitLab/7_Handbook_Key_Elements.md)
 **Documentation as Culture:**
 - People Group documentation
 - Onboarding materials

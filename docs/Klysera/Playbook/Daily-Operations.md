@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[📜 Playbook](docs/Klysera/Overview.md)** | **Daily Operations**
 
 ---
 
@@ -41,7 +40,7 @@ graph LR
 ### Throughout the Day
 
 **Apply TIK Principles:**
-- Use [Decision Framework](docs/Klysera/Decision-Framework.md) for significant choices
+- Use [Decision Framework](docs/Klysera/Playbook/Decision-Framework.md) for significant choices
 - Give recognition using TIK language
 - Document learning and insights for team sharing
 - Support colleagues' excellence actively
@@ -316,10 +315,10 @@ graph LR
 
 ## Related Resources
 
-- **[Communication Guide →](docs/Klysera/Communication-Guide.md)** - How we communicate
-- **[Meeting Culture →](docs/Klysera/Meeting-Culture.md)** - How we collaborate
+- **[Communication Guide →](docs/Klysera/Playbook/Communication-Guide.md)** - How we communicate
+- **[Meeting Culture →](docs/Klysera/Playbook/Meeting-Culture.md)** - How we collaborate
 - **[Recognition Framework →](/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate
-- **[← Back to Playbook Overview](docs/Klysera/Overview.md)**
+- **[← Back to Playbook Overview](docs/Klysera/Playbook/Overview.md)**
 
 ---
 

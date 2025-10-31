@@ -108,7 +108,7 @@ This Culture module contains the foundational elements that define who we are as
 - **[Operating Principles →](docs/Klysera/Operating-Principles/Overview.md)** - How we work
 - **[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Living culture daily
 - **[Leadership Overview →](docs/Klysera/Leadership/Overview.md)** - Cultural leadership
-- **[← Back to Culture Hub](docs/Klysera/Culture/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

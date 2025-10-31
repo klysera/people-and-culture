@@ -187,7 +187,7 @@ To translate these values into daily excellence, we have developed 7 Core Operat
 - **[Culture Manifesto →](docs/Klysera/Culture/Culture-Manifesto.md)** - Our inspirational story
 - **[Culture Stories →](docs/Klysera/Culture/Culture-Stories.md)** - TIK examples in action
 - **[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Living TIK daily
-- **[← Back to Culture Hub](docs/Klysera/Culture/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 

@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **🏆 Recognition & Rituals**
 
 ---
 
@@ -17,21 +16,21 @@ This Recognition & Rituals module provides the frameworks and practices that mak
 ## Recognition & Rituals Resources
 
 ### 🎯 Recognition Framework
-**[Recognition Framework →](docs/Klysera/Recognition-Framework.md)**
+**[Recognition Framework →](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)**
 - TIK recognition philosophy and principles
 - Recognition categories and methods
 - Peer-to-peer and leadership recognition
 - Implementation guidelines and tools
 
 ### 📅 Daily Practices
-**[Daily Rituals →](docs/Klysera/Daily-Rituals.md)**
+**[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)**
 - Morning TIK intention setting
 - Throughout-the-day practices
 - End-of-day reflection rituals
 - Weekly team celebrations
 
 ### 🏆 Special Events
-**[Special Programs →](docs/Klysera/Special-Programs.md)**
+**[Special Programs →](docs/Klysera/Recognition-Rituals/Special-Programs.md)**
 - Annual TIK Awards and recognition
 - Quarterly celebration programs
 - Monthly all-hands celebrations
@@ -42,20 +41,20 @@ This Recognition & Rituals module provides the frameworks and practices that mak
 ## Quick Start Guides
 
 ### For Everyone
-1. **Learn [Recognition Framework](docs/Klysera/Recognition-Framework.md)** - Understand how we celebrate
-2. **Practice [Daily Rituals](docs/Klysera/Daily-Rituals.md)** - Live TIK culture every day
+1. **Learn [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - Understand how we celebrate
+2. **Practice [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Live TIK culture every day
 3. **Give recognition frequently** - Use TIK language to appreciate others
 4. **Participate in celebrations** - Engage in team and company events
 
 ### For Managers
-1. **Master [Recognition Framework](docs/Klysera/Recognition-Framework.md)** - Lead by example in recognition
-2. **Implement [Daily Rituals](docs/Klysera/Daily-Rituals.md)** - Create team recognition practices
+1. **Master [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - Lead by example in recognition
+2. **Implement [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Create team recognition practices
 3. **Plan team celebrations** - Use frameworks for meaningful recognition
 4. **Connect to performance** - Link recognition to development and goals
 
 ### For HR/People & Culture
-1. **Orchestrate [Special Programs](docs/Klysera/Special-Programs.md)** - Plan company-wide celebrations
-2. **Train on [Recognition Framework](docs/Klysera/Recognition-Framework.md)** - Help everyone recognize well
+1. **Orchestrate [Special Programs](docs/Klysera/Recognition-Rituals/Special-Programs.md)** - Plan company-wide celebrations
+2. **Train on [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - Help everyone recognize well
 3. **Measure culture impact** - Track recognition effectiveness
 4. **Evolve programs** - Continuously improve based on feedback
 

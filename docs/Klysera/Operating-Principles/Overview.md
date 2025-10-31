@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **🔧 Operating Principles**
 
 ---
 
@@ -74,49 +73,49 @@ graph TB
 
 We approach work as experiments with clear hypotheses. Every initiative is a learning opportunity.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/01-Experimental-Mindset.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/01-Experimental-Mindset.md)**
 
 ### 2. Truth Over Comfort
 **"Seek what's right, not what's easy."**
 
 We prioritize finding the objectively best way over what's convenient or politically safe.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/02-Truth-Over-Comfort.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/02-Truth-Over-Comfort.md)**
 
 ### 3. Learn Fast, Apply Faster
 **"Turn every experience into immediate improvement."**
 
 Speed of learning is our competitive advantage. We apply insights immediately, not eventually.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/03-Learn-Fast-Apply-Faster.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/03-Learn-Fast-Apply-Faster.md)**
 
 ### 4. Excellence with Warmth
 **"Deliver exceptional quality with genuine care."**
 
 High standards don't require harshness. Excellence comes from caring about the work and each other.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/04-Excellence-with-Warmth.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/04-Excellence-with-Warmth.md)**
 
 ### 5. Results Over Motion
 **"Measure impact, not activity."**
 
 Being busy isn't being productive. We focus on outcomes that matter and have courage to stop what isn't working.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/05-Results-Over-Motion.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/05-Results-Over-Motion.md)**
 
 ### 6. Radical Simplicity
 **"Eliminate complexity that doesn't add value."**
 
 The best solution is the simplest one that works. Clear communication. Clean execution. No bureaucracy.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/06-Radical-Simplicity.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/06-Radical-Simplicity.md)**
 
 ### 7. Context Not Control
 **"Empower through information and purpose."**
 
 We share the why, not just the what. Trust smart people with context to find optimal solutions.
 
-**[📖 View Implementation Guide →](docs/Klysera/Principles/07-Context-Not-Control.md)**
+**[📖 View Implementation Guide →](docs/Klysera/Operating-Principles/Principles/07-Context-Not-Control.md)**
 
 ---
 
@@ -143,19 +142,17 @@ For any significant decision, ask these 7 questions:
 ## Implementation Resources
 
 ### 🚀 Getting Started
-- **[Quick Start Guide →](docs/Klysera/Implementation/Quick-Start-Guide.md)** - Week 1 launch
-- **[Leadership Guide →](docs/Klysera/Implementation/Leadership-Guide.md)** - Leader responsibilities and modeling
-- **[Reference Cards →](docs/Klysera/Tools/Quick-Reference-Cards.md)** - Daily decision aids
+- **[Quick Start Guide →](docs/Klysera/Operating-Principles/Implementation/Quick-Start-Guide.md)** - Week 1 launch
+- **[Leadership Guide →](docs/Klysera/Operating-Principles/Implementation/Leadership-Guide.md)** - Leader responsibilities and modeling
+- **[Reference Cards →](docs/Klysera/Operating-Principles/Tools/Quick-Reference-Cards.md)** - Daily decision aids
 
 ### 📊 Tools & Templates
-- **[Decision Framework →](docs/Klysera/Tools/Decision-Framework.md)** - "Is this TIK?" decision guide
-- **[Daily Rituals Framework →](docs/Klysera/Tools/Daily-Rituals-Framework.md)** - Morning intentions, standups, reflections
-- **[TIK Language Guide →](docs/Klysera/Tools/TIK-Language-Guide.md)** - How to speak TIK fluently
+- **[Decision Framework →](docs/Klysera/Operating-Principles/Tools/Decision-Framework.md)** - "Is this TIK?" decision guide
+- **[Daily Rituals Framework →](docs/Klysera/Operating-Principles/Tools/Daily-Rituals-Framework.md)** - Morning intentions, standups, reflections
+- **[TIK Language Guide →](docs/Klysera/Operating-Principles/Tools/TIK-Language-Guide.md)** - How to speak TIK fluently
 
 ### 📈 Measurement & Success
-- **[Culture Metrics →](docs/Klysera/Measurement/Culture-Metrics.md)** - How to measure principle adoption
-- **[Health Dashboard →](docs/Klysera/Measurement/Health-Dashboard.md)** - Monthly pulse checks
-- **[Progress Tracking →](docs/Klysera/Measurement/Progress-Tracking.md)** - Implementation milestones
+- **[Culture Metrics →](docs/Klysera/Operating-Principles/Measurement/Culture-Metrics.md)** - How to measure principle adoption
 
 ---
 

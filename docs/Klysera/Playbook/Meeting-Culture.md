@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[📜 Playbook](docs/Klysera/Overview.md)** | **Meeting Culture**
 
 ---
 
@@ -282,10 +281,10 @@
 
 ## Related Resources
 
-- **[Communication Guide →](docs/Klysera/Communication-Guide.md)** - How we communicate
-- **[Decision Framework →](docs/Klysera/Decision-Framework.md)** - How we make decisions
-- **[Daily Operations →](docs/Klysera/Daily-Operations.md)** - Our work rhythms
-- **[← Back to Playbook Overview](docs/Klysera/Overview.md)**
+- **[Communication Guide →](docs/Klysera/Playbook/Communication-Guide.md)** - How we communicate
+- **[Decision Framework →](docs/Klysera/Playbook/Decision-Framework.md)** - How we make decisions
+- **[Daily Operations →](docs/Klysera/Playbook/Daily-Operations.md)** - Our work rhythms
+- **[← Back to Playbook Overview](docs/Klysera/Playbook/Overview.md)**
 
 ---
 

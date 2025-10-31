@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **[🏆 Recognition & Rituals](docs/Klysera/Overview.md)** | **Daily Rituals**
 
 ---
 
@@ -358,8 +357,8 @@ Each team member shares:
 
 ## Related Resources
 
-- **[Recognition Framework →](docs/Klysera/Recognition-Framework.md)** - How we celebrate excellence
-- **[Special Programs →](docs/Klysera/Special-Programs.md)** - Annual awards and celebrations
+- **[Recognition Framework →](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
+- **[Special Programs →](docs/Klysera/Recognition-Rituals/Special-Programs.md)** - Annual awards and celebrations
 - **[Culture Stories →](/Culture/Culture-Stories.md)** - Inspiring TIK examples
 - **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 

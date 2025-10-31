@@ -1,4 +1,3 @@
-**[Home](#/)** | **[Navigation](#/)** | **[File Structure](docs/Klysera/FILE-STRUCTURE.md)** | **Culture Hub**
 
 ---
 

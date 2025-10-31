@@ -1,4 +1,3 @@
-**[Home](//../#/)** | **[Navigation](//../#/)** | **[Culture Hub](/docs/Klysera/../Culture-Hub.md)** | **[🔧 Operating Principles](/Overview.md)** | **[🛠️ Tools](docs/Klysera/Quick-Reference-Cards.md)** | **Daily Rituals Framework**
 
 ---
 
@@ -77,7 +76,7 @@ This comprehensive resource includes:
 
 - **[Complete Daily Rituals Guide →](/../Recognition-Rituals/Daily-Rituals.md)** - Comprehensive practices and tools
 - **[Recognition Framework →](/../Recognition-Rituals/Recognition-Framework.md)** - How we celebrate excellence
-- **[TIK Language Guide →](docs/Klysera/TIK-Language-Guide.md)** - Speaking TIK fluently
+- **[TIK Language Guide →](docs/Klysera/Operating-Principles/Tools/TIK-Language-Guide.md)** - Speaking TIK fluently
 - **[Operating Principles Overview →](/Overview.md)** - Our 7 core principles
 
 ---

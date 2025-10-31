@@ -1,4 +1,3 @@
-**[Home](//#/)** | **[Navigation](//#/)** | **[Culture Hub](/docs/Klysera/Culture-Hub.md)** | **🗺️ Roadmap**
 
 ---
 
@@ -10,7 +9,7 @@
 
 ## 🚨 URGENT: Your Primary Focus
 
-### **[2-Month Operational Readiness Roadmap](docs/Klysera/2-Month-Operational-Roadmap.md)**
+### **[2-Month Operational Readiness Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)**
 **CRITICAL MISSION: Build minimum viable P&C infrastructure to serve incoming employees**
 
 #### Success Target

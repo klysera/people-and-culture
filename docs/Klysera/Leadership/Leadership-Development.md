@@ -347,9 +347,9 @@ mindmap
 
 ## Related Resources
 
-- **[Leadership Overview →](docs/Klysera/Overview.md)** - Core leadership principles
-- **[Leadership Tools →](docs/Klysera/Leadership-Tools.md)** - Practical resources
-- **[Leadership Assessment →](docs/Klysera/Leadership-Assessment.md)** - Performance evaluation
+- **[Leadership Overview →](docs/Klysera/Leadership/Overview.md)** - Core leadership principles
+- **[Leadership Tools →](docs/Klysera/Leadership/Leadership-Tools.md)** - Practical resources
+- **[Leadership Assessment →](docs/Klysera/Leadership/Leadership-Assessment.md)** - Performance evaluation
 - **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---

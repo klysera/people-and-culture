@@ -259,7 +259,7 @@
 - **[TIK Identity →](docs/Klysera/Culture/TIK-Identity.md)** - Understanding our values
 - **[Recognition Framework →](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)** - How to recognize TIK moments
 - **[Daily Rituals →](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)** - Living TIK every day
-- **[← Back to Culture Hub](docs/Klysera/Culture/Culture-Hub.md)**
+- **[← Back to Culture Hub](docs/Klysera/Culture-Hub.md)**
 
 ---
 
