@@ -1,0 +1,29 @@
+{
+  "workflow_version": "1.2.0",
+  "timestamps": {"started": "2025-10-31T10:00:00Z", "last_updated": "2025-10-31T10:00:00Z"},
+  "mode": "initial_scan",
+  "scan_level": "quick",
+  "project_root": "/mnt/e/Klysera/People-Culture",
+  "output_folder": "/mnt/e/Klysera/People-Culture/docs",
+  "completed_steps": [
+    {"step": "step_1", "status": "completed", "timestamp": "2025-10-31T10:05:00Z", "summary": "Classified as monolith with 1 part"},
+    {"step": "step_2", "status": "completed", "timestamp": "2025-10-31T10:10:00Z", "summary": "Found comprehensive HR/culture docs + research framework"}
+  ],
+  "current_step": "step_3",
+  "findings": {"project_classification": "Documentation system, monolith, 1 part, Markdown+Playwright"},
+  "project_types": [{"part_id": "main", "project_type_id": "web", "display_name": "People-Culture Documentation System"}],
+  "outputs_generated": [
+    "project-scan-report.json",
+    "project_structure.md",
+    "project_parts_metadata.md",
+    "existing_documentation_inventory.md",
+    "user_provided_context.md",
+    "technology_stack.md",
+    "architecture_patterns.md",
+    "source-tree-analysis.md",
+    "development-guide.md",
+    "project-overview.md",
+    "index.md"
+  ],
+  "resume_instructions": "Starting from step 1"
+}

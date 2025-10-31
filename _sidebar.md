@@ -1,67 +1,58 @@
 ### Getting Started
 
 - [Home](README.md)
-- [Culture Hub](docs/Klysera/Culture-Hub.md)
-- [File Structure](docs/Klysera/FILE-STRUCTURE.md)
+- [Culture Hub](documentation/Klysera/Culture-Hub.md)
+- [Documentation Index](documentation/index.md)
 
 ### Culture Foundation
 
-- [Overview](docs/Klysera/Culture/Overview.md)
-- [Culture Manifesto](docs/Klysera/Culture/Culture-Manifesto.md)
-- [TIK Identity](docs/Klysera/Culture/TIK-Identity.md)
-- [Culture Stories](docs/Klysera/Culture/Culture-Stories.md)
-- [Meaningful Impact](docs/Klysera/Culture/Meaningful-Impact.md)
-- [Relentless Truth](docs/Klysera/Culture/Relentless-Truth.md)
-- [Uncompromising Excellence](docs/Klysera/Culture/Uncompromising-Excellence.md)
+- [Overview](documentation/Klysera/Culture/Overview.md)
+- [Culture Manifesto](documentation/Klysera/Culture/Culture-Manifesto.md)
+- [TIK Identity](documentation/Klysera/Culture/TIK-Identity.md)
+- [Culture Stories](documentation/Klysera/Culture/Culture-Stories.md)
+- [Meaningful Impact](documentation/Klysera/Culture/Meaningful-Impact.md)
+- [Relentless Truth](documentation/Klysera/Culture/Relentless-Truth.md)
+- [Uncompromising Excellence](documentation/Klysera/Culture/Uncompromising-Excellence.md)
 
 ### Hiring & Onboarding
 
-- [Overview](docs/Klysera/Hiring-Onboarding/Overview.md)
-- [Hiring Guide](docs/Klysera/Hiring-Onboarding/Hiring-Guide.md)
-- [Onboarding Journey](docs/Klysera/Hiring-Onboarding/Onboarding-Journey.md)
-- [TIK Certification Program](docs/Klysera/Hiring-Onboarding/TIK-Certification-Program.md)
-- [Certification Tracking](docs/Klysera/Hiring-Onboarding/Certification-Tracking-Template.md)
-- [Integration Tools](docs/Klysera/Hiring-Onboarding/Integration-Tools.md)
+- [Overview](documentation/Klysera/Hiring-Onboarding/Overview.md)
+- [Hiring Guide](documentation/Klysera/Hiring-Onboarding/Hiring-Guide.md)
+- [Onboarding Journey](documentation/Klysera/Hiring-Onboarding/Onboarding-Journey.md)
+- [TIK Certification Program](documentation/Klysera/Hiring-Onboarding/TIK-Certification-Program.md)
+- [Certification Tracking](documentation/Klysera/Hiring-Onboarding/Certification-Tracking-Template.md)
+- [Integration Tools](documentation/Klysera/Hiring-Onboarding/Integration-Tools.md)
 
 ### Leadership Excellence
 
-- [Overview](docs/Klysera/Leadership/Overview.md)
-- [Leadership Development](docs/Klysera/Leadership/Leadership-Development.md)
-- [Leadership Tools](docs/Klysera/Leadership/Leadership-Tools.md)
-- [Leadership Assessment](docs/Klysera/Leadership/Leadership-Assessment.md)
-
-### Operating Playbook
-
-- [Overview](docs/Klysera/Playbook/Overview.md)
-- [Communication Guide](docs/Klysera/Playbook/Communication-Guide.md)
-- [Meeting Culture](docs/Klysera/Playbook/Meeting-Culture.md)
-- [Decision Framework](docs/Klysera/Playbook/Decision-Framework.md)
-- [Daily Operations](docs/Klysera/Playbook/Daily-Operations.md)
-- [Policies & Guidelines](docs/Klysera/Playbook/Policies-Guidelines.md)
+- [Overview](documentation/Klysera/Leadership/Overview.md)
+- [Leadership Development](documentation/Klysera/Leadership/Leadership-Development.md)
+- [Leadership Tools](documentation/Klysera/Leadership/Leadership-Tools.md)
+- [Leadership Assessment](documentation/Klysera/Leadership/Leadership-Assessment.md)
 
 ### Operating Principles
 
-- [Overview](docs/Klysera/Operating-Principles/Overview.md)
-- [Core Principles](docs/Klysera/Operating-Principles/Principles/Overview.md)
-- [Implementation Guide](docs/Klysera/Operating-Principles/Implementation/Overview.md)
-- [Leadership Guide](docs/Klysera/Operating-Principles/Implementation/Leadership-Guide.md)
-- [Measurement](docs/Klysera/Operating-Principles/Measurement/Overview.md)
-- [Tools](docs/Klysera/Operating-Principles/Tools/Overview.md)
-
-### Recognition & Rituals
-
-- [Overview](docs/Klysera/Recognition-Rituals/Overview.md)
-- [Recognition Framework](docs/Klysera/Recognition-Rituals/Recognition-Framework.md)
-- [Daily Rituals](docs/Klysera/Recognition-Rituals/Daily-Rituals.md)
-- [Special Programs](docs/Klysera/Recognition-Rituals/Special-Programs.md)
-
-### Roadmap
-
-- [Overview](docs/Klysera/Roadmap/Overview.md)
-- [2-Month Operational Roadmap](docs/Klysera/Roadmap/2-Month-Operational-Roadmap.md)
+- [Overview](documentation/Klysera/Operating-Principles/Overview.md)
+- [Core Principles](documentation/Klysera/Operating-Principles/Principles/Overview.md)
+- [Implementation Guide](documentation/Klysera/Operating-Principles/Implementation/Overview.md)
+- [Leadership Guide](documentation/Klysera/Operating-Principles/Implementation/Leadership-Guide.md)
+- [Measurement](documentation/Klysera/Operating-Principles/Measurement/Overview.md)
+- [Tools](documentation/Klysera/Operating-Principles/Tools/Overview.md)
 
 ### Research & Insights
 
-- [Research Overview](Research/README.md)
-- [Comparative Analysis](Research/Comparative-Analysis-Summary.md)
-- [Blog Content Analysis](Research/Blog-Content-Analysis-All-Companies.md)
+- [Research Overview](documentation/Research/README.md)
+- [GitLab Analysis](documentation/Research/GitLab/)
+- [Zapier Analysis](documentation/Research/Zapier/)
+- [Doist Analysis](documentation/Research/Doist/)
+
+### Testing & Validation
+
+- [Mermaid Test Page](documentation/mermaid-test.md)
+
+### Project Documentation
+
+- [Project Overview](documentation/project-overview.md)
+- [Architecture Patterns](documentation/architecture_patterns.md)
+- [Technology Stack](documentation/technology_stack.md)
+- [Development Guide](documentation/development-guide.md)
