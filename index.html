@@ -293,8 +293,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 
   <!-- Mermaid support -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.css">
-  <script src="//cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+  <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
 
   <!-- Custom collapsible sidebar script -->
   <script>
@@ -366,26 +365,42 @@ ${cleanCode}
         });
 
         hook.doneEach(function() {
-          // Clear any previously rendered diagrams to avoid conflicts
-          document.querySelectorAll('.mermaid svg').forEach(svg => svg.remove());
+          // Wait a bit for content to be fully processed
+          setTimeout(() => {
+            // Find all mermaid elements
+            const mermaidElements = document.querySelectorAll('.mermaid');
 
-          // Render all Mermaid diagrams after content is loaded
-          const mermaidElements = document.querySelectorAll('.mermaid');
-          if (mermaidElements.length > 0) {
-            // Reset IDs to avoid conflicts
-            mermaidElements.forEach((element, index) => {
-              element.id = `mermaid-${Date.now()}-${index}`;
-            });
-
-            try {
-              mermaid.init(undefined, mermaidElements);
-            } catch (error) {
-              console.error('Mermaid rendering error:', error);
+            if (mermaidElements.length > 0) {
+              // Clear any previously rendered diagrams
               mermaidElements.forEach(element => {
-                element.innerHTML = '<p style="color: red; font-style: italic;">Error rendering diagram</p>';
+                const existingSvg = element.querySelector('svg');
+                if (existingSvg) {
+                  existingSvg.remove();
+                }
+              });
+
+              // Reset IDs and ensure clean content
+              mermaidElements.forEach((element, index) => {
+                element.id = `mermaid-${Date.now()}-${index}`;
+
+                // Ensure the element contains diagram code, not CSS
+                const content = element.textContent.trim();
+                if (content.includes('graph') || content.includes('flowchart') || content.includes('sequenceDiagram')) {
+                  // Content looks good, proceed with rendering
+                  try {
+                    mermaid.init(undefined, element);
+                  } catch (error) {
+                    console.error('Mermaid rendering error for element', index, ':', error);
+                    console.error('Element content:', content.substring(0, 200));
+                    element.innerHTML = '<p style="color: red; font-style: italic;">Error rendering diagram: ' + error.message + '</p>';
+                  }
+                } else {
+                  console.warn('Invalid mermaid content detected:', content.substring(0, 100));
+                  element.innerHTML = '<p style="color: orange; font-style: italic;">Invalid diagram content</p>';
+                }
               });
             }
-          }
+          }, 100);
         });
       },
 
